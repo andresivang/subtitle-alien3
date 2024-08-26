@@ -1,0 +1,4877 @@
+1
+00:02:02,330 --> 00:02:04,373
+<i>Estasis interrumpida.</i>
+
+2
+00:02:04,457 --> 00:02:07,960
+<i>Fuego en sector criogénico.</i>
+
+3
+00:02:08,044 --> 00:02:12,297
+<i>Repito. Fuego en sector criogénico.</i>
+
+4
+00:02:12,382 --> 00:02:14,258
+<i>Todo el personal reportarse...</i>
+
+5
+00:02:14,342 --> 00:02:18,470
+<i>al vehículo de escape
+de emergencia.</i>
+
+6
+00:02:18,555 --> 00:02:23,183
+<i>El lanzamiento de la nave
+de escape comenzará...</i>
+
+7
+00:02:23,268 --> 00:02:26,979
+<i>en T menos 20 segundos.</i>
+
+8
+00:04:09,455 --> 00:04:12,707
+REFINERÍA DE MINERALES
+DE LA CORTINA EXTERIOR
+
+9
+00:04:12,792 --> 00:04:16,878
+PRISIÓN DE TRABAJO
+PARA 'DOBLE CROMOSOMA Y'
+
+10
+00:04:16,963 --> 00:04:19,965
+MÁXIMA SEGURIDAD
+
+11
+00:04:34,021 --> 00:04:37,899
+FIORINA 161
+UNIDAD DE PRISIÓN CLASE C
+
+12
+00:04:37,984 --> 00:04:43,446
+REPORTE
+VEE 2650 SE ESTRELLÓ
+
+13
+00:04:47,368 --> 00:04:49,452
+Bien. Métete ahí.
+
+14
+00:04:49,537 --> 00:04:51,496
+¡Santo cielo!
+
+15
+00:04:51,581 --> 00:04:53,373
+Vaya manera de aterrizar.
+
+16
+00:04:53,457 --> 00:04:54,958
+Usa el soplete.
+
+17
+00:05:07,430 --> 00:05:11,308
+- ¿Cuántos?
+- No lo sé. Tres. Quizá cuatro.
+
+18
+00:05:11,392 --> 00:05:15,645
+Oye, Frank. ¿Podemos apurarnos?
+Estará a menos 40 en cinco minutos.
+
+19
+00:05:19,233 --> 00:05:20,233
+¡Ven acá!
+
+20
+00:05:20,318 --> 00:05:21,610
+- ¡Lo mato!
+- ¿Qué es eso?
+
+21
+00:05:21,694 --> 00:05:25,530
+¡Basta! Es tu estúpido perro.
+¡Sácalo de aquí!
+
+22
+00:05:26,324 --> 00:05:28,241
+- Vamos.
+- Odio esa cosa.
+
+23
+00:05:28,326 --> 00:05:30,493
+- ¡Deshazte del perro!
+- ¡Ya se fue!
+
+24
+00:05:34,540 --> 00:05:36,875
+Qué fea manera de morir.
+
+25
+00:05:38,085 --> 00:05:40,712
+¡Oye, Frank! ¡Andando!
+¡Vamos! ¡Vamos!
+
+26
+00:05:40,796 --> 00:05:41,880
+¡Espera!
+
+27
+00:05:44,842 --> 00:05:46,426
+Uno de ellos sigue vivo.
+
+28
+00:05:52,558 --> 00:05:56,269
+TENIENTE ELLEN RIPLEY
+B5156170 - SOBREVIVIENTE
+
+29
+00:05:59,815 --> 00:06:00,899
+Bueno.
+
+30
+00:06:00,983 --> 00:06:02,609
+Vamos a necesitar todos esos.
+
+31
+00:06:04,111 --> 00:06:07,697
+HEMBRA NO IDENTIFICADA
+12 AÑOS DE EDAD - MUERTA
+
+32
+00:06:13,371 --> 00:06:15,914
+Eso es.
+
+33
+00:06:16,874 --> 00:06:17,874
+Bueno.
+
+34
+00:06:19,377 --> 00:06:22,921
+CABO DWAYNE HICKS
+L55321 - MUERTO
+
+35
+00:06:37,812 --> 00:06:42,399
+BISHOP 341 - B HUMANOIDE SINTÉTICO
+CAPACIDAD NEGATIVA
+
+36
+00:07:34,702 --> 00:07:34,743
+Esto es para el control de rumores.
+Aquí están los hechos:
+
+37
+00:07:34,744 --> 00:07:37,996
+Esto es para el control de rumores.
+Aquí están los hechos:
+
+38
+00:07:39,206 --> 00:07:40,749
+Como algunos saben...
+
+39
+00:07:40,833 --> 00:07:45,211
+un VEE, modelo 337...
+
+40
+00:07:45,296 --> 00:07:50,300
+hizo un aterrizaje de emergencia aquí
+a las 6:00 de esta mañana.
+
+41
+00:07:51,344 --> 00:07:53,762
+Hubo un sobreviviente...
+
+42
+00:07:53,846 --> 00:07:58,266
+dos muertos, y un androide deshecho
+que no tiene arreglo.
+
+43
+00:07:58,351 --> 00:07:59,726
+El sobreviviente...
+
+44
+00:07:59,810 --> 00:08:00,935
+es una mujer.
+
+45
+00:08:02,021 --> 00:08:03,355
+¡Lo sabía, una mujer!
+
+46
+00:08:04,565 --> 00:08:08,193
+Quiero decir
+que yo hice un voto de castidad...
+
+47
+00:08:08,277 --> 00:08:10,403
+que también incluye mujeres.
+
+48
+00:08:10,488 --> 00:08:13,031
+- ¡Todos lo hicimos!
+- ¡Cierra el pico, Morse!
+
+49
+00:08:13,115 --> 00:08:15,575
+Y a mí, personalmente, no me gusta...
+
+50
+00:08:15,659 --> 00:08:19,454
+que le permitan convivir
+con los reclusos y el personal.
+
+51
+00:08:19,538 --> 00:08:24,167
+El "hermano" quiere decir que vemos
+la presencia de un forastero...
+
+52
+00:08:24,251 --> 00:08:26,461
+y sobre todo, de una mujer...
+
+53
+00:08:26,545 --> 00:08:30,799
+como una violación de la armonía
+y una posible causa de conflicto.
+
+54
+00:08:30,883 --> 00:08:33,426
+Comprendemos lo que opinan.
+
+55
+00:08:33,511 --> 00:08:38,431
+Les complacerá saber
+que he solicitado un equipo de rescate.
+
+56
+00:08:38,516 --> 00:08:40,975
+Esperamos que llegue en menos de 7 días...
+
+57
+00:08:41,727 --> 00:08:45,480
+y la desaloje lo antes posible.
+
+58
+00:08:45,564 --> 00:08:47,107
+No nos salgas con eso.
+
+59
+00:08:48,067 --> 00:08:49,067
+¿Cómo se encuentra?
+
+60
+00:08:49,151 --> 00:08:51,069
+No sufrió daños graves.
+
+61
+00:08:51,153 --> 00:08:52,695
+Está inconsciente.
+
+62
+00:08:52,780 --> 00:08:54,989
+No puedo ser más específico ahora.
+
+63
+00:08:55,074 --> 00:08:57,409
+- ¿Va a vivir?
+- Creo que sí.
+
+64
+00:08:59,370 --> 00:09:03,164
+Será mejor para todos
+que permanezca en la enfermería...
+
+65
+00:09:03,249 --> 00:09:08,002
+hasta que llegue el equipo de rescate.
+Y que nunca se pasee sola.
+
+66
+00:09:08,087 --> 00:09:09,337
+Señor.
+
+67
+00:09:10,589 --> 00:09:11,840
+¡Caballeros!
+
+68
+00:09:11,924 --> 00:09:14,843
+Seguiremos nuestras rutinas cotidianas...
+
+69
+00:09:14,927 --> 00:09:17,887
+y no nos alborotaremos demasiado.
+
+70
+00:09:17,972 --> 00:09:20,265
+¿Correcto? Bueno.
+
+71
+00:09:21,976 --> 00:09:23,852
+Gracias, caballeros.
+
+72
+00:09:28,357 --> 00:09:29,858
+Está bien.
+
+73
+00:09:29,942 --> 00:09:32,110
+Ojalá que llegue pronto
+o no quedará nada.
+
+74
+00:10:10,649 --> 00:10:11,608
+¿Qué es eso?
+
+75
+00:10:12,818 --> 00:10:16,905
+Un pequeño coctel que inventé.
+Un abridor de ojos.
+
+76
+00:10:18,741 --> 00:10:21,576
+- ¿Es Ud. doctor?
+- Mi nombre es Clemens.
+
+77
+00:10:21,660 --> 00:10:23,036
+Soy el Oficial Médico.
+
+78
+00:10:23,120 --> 00:10:26,164
+- ¿Aquí?
+- Estamos en Furia 161.
+
+79
+00:10:26,248 --> 00:10:29,918
+Una prisión de trabajo
+perdida de Weyland-Yutani...
+
+80
+00:10:30,002 --> 00:10:31,503
+lamento decir.
+
+81
+00:10:31,587 --> 00:10:32,587
+¿Me permite?
+
+82
+00:10:36,175 --> 00:10:37,592
+Es un estabilizador.
+
+83
+00:10:39,637 --> 00:10:41,721
+Debería raparla.
+
+84
+00:10:42,681 --> 00:10:44,933
+Tenemos un problema grave de piojos.
+
+85
+00:10:46,185 --> 00:10:49,229
+Le daré unas tijeras
+para sus partes pudendas.
+
+86
+00:10:49,313 --> 00:10:50,730
+¿Cómo llegué aquí?
+
+87
+00:10:53,234 --> 00:10:56,819
+En un Vehículo de Escape de Emergencia.
+
+88
+00:10:56,904 --> 00:11:00,448
+Se separó de la nave principal
+antes de entrar a la atmósfera.
+
+89
+00:11:00,533 --> 00:11:02,700
+¿Cuánto tiempo estuvo en hipersueño?
+
+90
+00:11:03,869 --> 00:11:05,870
+Despertar así puede ser duro.
+
+91
+00:11:05,955 --> 00:11:09,249
+- Me sentiré mal un par de semanas.
+- Ya lo creo.
+
+92
+00:11:12,962 --> 00:11:15,922
+- ¿Y los demás?
+- No aguantaron.
+
+93
+00:11:16,006 --> 00:11:19,050
+- ¿Qué?
+- No sobrevivieron.
+
+94
+00:11:22,846 --> 00:11:24,639
+Necesito ir a la nave.
+
+95
+00:11:24,723 --> 00:11:25,974
+Tengo que ir a la nave.
+
+96
+00:11:27,142 --> 00:11:28,309
+No está en condiciones para eso.
+
+97
+00:11:28,394 --> 00:11:32,313
+¿Me va a dar ropa
+o quiere que me vaya así?
+
+98
+00:11:32,398 --> 00:11:36,985
+Dada la naturaleza de nuestra
+población autóctona, sugiero la ropa.
+
+99
+00:11:39,572 --> 00:11:41,864
+Ningún recluso ha visto una mujer en años.
+
+100
+00:11:44,827 --> 00:11:46,536
+Ni yo tampoco.
+
+101
+00:11:49,248 --> 00:11:52,959
+Esta era una instalación
+de 5000 prisioneros.
+
+102
+00:11:53,043 --> 00:11:56,421
+Pero ha sido reducida
+a un personal custodio de 25.
+
+103
+00:11:56,505 --> 00:11:57,505
+¿Por qué?
+
+104
+00:11:57,590 --> 00:11:59,591
+- Para mantener el piloto prendido.
+- ¿El piloto de qué?
+
+105
+00:12:01,875 --> 00:12:04,085
+Un alto horno.
+
+106
+00:12:04,169 --> 00:12:05,419
+Metano natural.
+
+107
+00:12:05,504 --> 00:12:08,214
+Tenemos una fundición, teniente Ripley.
+
+108
+00:12:09,216 --> 00:12:12,426
+Forjamos láminas de plomo
+para barriles de desechos tóxicos.
+
+109
+00:12:12,511 --> 00:12:14,220
+¿Cómo conoce mi nombre?
+
+110
+00:12:15,430 --> 00:12:18,182
+Está impreso en la parte
+de atrás de sus calzones.
+
+111
+00:12:26,817 --> 00:12:28,234
+¡Suelten el cable!
+
+112
+00:12:46,878 --> 00:12:48,421
+¿Y los cadáveres?
+
+113
+00:12:48,505 --> 00:12:53,050
+En la morgue. Ahí van a estar
+hasta que lleguen los investigadores.
+
+114
+00:12:57,097 --> 00:12:58,639
+Había un androide.
+
+115
+00:12:58,724 --> 00:12:59,682
+Desconectado.
+
+116
+00:12:59,766 --> 00:13:03,352
+Había pedazos de él por todos lados.
+Los pusimos en la basura.
+
+117
+00:13:04,521 --> 00:13:07,898
+El cabo se clavó en esa viga de seguridad.
+
+118
+00:13:07,983 --> 00:13:10,026
+No supo ni qué le pasó.
+
+119
+00:13:10,110 --> 00:13:11,277
+¿La niña?
+
+120
+00:13:12,613 --> 00:13:15,906
+Se ahogó en su tubo criogénico.
+
+121
+00:13:15,991 --> 00:13:17,908
+Creo que no estaba consciente...
+
+122
+00:13:18,994 --> 00:13:20,328
+cuando sucedió.
+
+123
+00:13:20,412 --> 00:13:22,538
+Lo siento.
+
+124
+00:13:44,600 --> 00:13:46,642
+- ¿Qué pasó?
+- ¿Dónde está?
+
+125
+00:13:46,727 --> 00:13:47,810
+En la morgue.
+
+126
+00:13:49,021 --> 00:13:50,313
+La tengo que ver.
+
+127
+00:13:52,399 --> 00:13:54,150
+Ver sus restos.
+
+128
+00:13:59,948 --> 00:14:02,491
+¡Dios mío, conque ahí estás!
+
+129
+00:14:03,118 --> 00:14:06,203
+Te estuve buscando
+por todos lados.
+
+130
+00:14:16,882 --> 00:14:18,007
+Ven acá.
+
+131
+00:14:20,510 --> 00:14:21,510
+¿Estás bien?
+
+132
+00:14:22,179 --> 00:14:26,515
+Déjame ver. ¿Estás bien?
+
+133
+00:14:27,643 --> 00:14:29,769
+¿En qué has estado
+metiendo la cara?
+
+134
+00:14:33,106 --> 00:14:34,398
+¿Alguien te hizo esto?
+
+135
+00:14:40,113 --> 00:14:43,532
+¿Qué clase de animal
+le haría esto a un perro?
+
+136
+00:15:13,146 --> 00:15:14,772
+¿Me permiten un momento a solas?
+
+137
+00:15:15,774 --> 00:15:16,941
+Por supuesto.
+
+138
+00:15:50,632 --> 00:15:51,882
+Perdóname.
+
+139
+00:16:16,699 --> 00:16:18,534
+¿Qué está haciendo?
+
+140
+00:16:30,839 --> 00:16:34,216
+- ¿Todo en orden?
+- No.
+
+141
+00:16:37,137 --> 00:16:38,512
+Hay que hacerle una autopsia.
+
+142
+00:16:38,596 --> 00:16:40,305
+- ¿Qué?
+- Ya me oyó.
+
+143
+00:16:40,390 --> 00:16:42,599
+Estar seguros de cómo murió.
+
+144
+00:16:44,144 --> 00:16:45,978
+Ya le dije.
+
+145
+00:16:46,062 --> 00:16:47,354
+Se ahogó.
+
+146
+00:16:47,439 --> 00:16:49,648
+No estoy tan segura.
+
+147
+00:16:50,650 --> 00:16:53,110
+Tengo que ver adentro.
+
+148
+00:16:53,194 --> 00:16:55,571
+Está Ud. desorientada...
+
+149
+00:16:55,655 --> 00:16:57,573
+Tengo una muy buena razón.
+
+150
+00:16:57,657 --> 00:16:59,741
+¿Qué tal si me la dice?
+
+151
+00:17:03,079 --> 00:17:05,914
+Un posible contagio.
+
+152
+00:17:05,999 --> 00:17:08,333
+¿Qué clase de contagio?
+
+153
+00:17:09,335 --> 00:17:10,919
+- De cólera.
+- ¿Cólera?
+
+154
+00:17:14,924 --> 00:17:17,551
+No se ha reportado
+un caso de cólera en 200 años.
+
+155
+00:17:24,225 --> 00:17:25,434
+Por favor.
+
+156
+00:18:02,639 --> 00:18:04,139
+Todo está en su lugar.
+
+157
+00:18:05,850 --> 00:18:07,768
+No hay ninguna señal de infección.
+
+158
+00:18:09,270 --> 00:18:11,730
+- Ninguna indicación de enfermedad.
+- Pecho.
+
+159
+00:18:12,732 --> 00:18:13,941
+Ábrale el pecho.
+
+160
+00:18:22,283 --> 00:18:23,450
+Con cuidado.
+
+161
+00:18:55,817 --> 00:18:57,150
+Pulmones...
+
+162
+00:19:00,321 --> 00:19:02,531
+inundados de líquido.
+
+163
+00:19:04,534 --> 00:19:06,118
+Por lo tanto, se ahogó.
+
+164
+00:19:12,500 --> 00:19:14,001
+Ahora...
+
+165
+00:19:14,085 --> 00:19:16,128
+como no soy un completo idiota...
+
+166
+00:19:17,880 --> 00:19:20,340
+¿por qué no me dice qué estoy buscando?
+
+167
+00:19:30,560 --> 00:19:33,729
+- Sr. Clemens.
+- Superintendente.
+
+168
+00:19:36,482 --> 00:19:38,984
+Creo que no conoce a la teniente Ripley.
+
+169
+00:19:40,903 --> 00:19:44,197
+- ¿Qué pasa aquí?
+- Exacto, señor. ¿Qué pasa aquí?
+
+170
+00:19:45,825 --> 00:19:46,950
+Primero...
+
+171
+00:19:47,744 --> 00:19:50,871
+la teniente se siente mejor...
+
+172
+00:19:50,955 --> 00:19:52,497
+afortunadamente. Segundo...
+
+173
+00:19:52,582 --> 00:19:55,083
+en aras de la salud pública...
+
+174
+00:19:55,168 --> 00:19:57,794
+- realizo una autopsia.
+- ¿Sin mi permiso?
+
+175
+00:19:57,879 --> 00:20:00,505
+No había tiempo.
+
+176
+00:20:00,590 --> 00:20:02,341
+Pero todo salió bien.
+
+177
+00:20:02,425 --> 00:20:04,885
+- No hay ningún contagio.
+- Muy bien.
+
+178
+00:20:05,595 --> 00:20:08,680
+No conviene que Ripley
+se pasee frente a los reos.
+
+179
+00:20:08,765 --> 00:20:12,893
+Me dicen que se paseó hace poco.
+Y sí convendría...
+
+180
+00:20:12,977 --> 00:20:15,979
+que me mantuviera
+al tanto de su estado físico.
+
+181
+00:20:16,064 --> 00:20:20,859
+- ¿Acaso pido demasiado?
+- Hay que cremar los cadáveres.
+
+182
+00:20:20,943 --> 00:20:24,613
+Estarán congelados
+hasta que llegue el equipo de rescate.
+
+183
+00:20:24,697 --> 00:20:25,697
+Congelados.
+
+184
+00:20:25,782 --> 00:20:28,450
+Está la cuestión de la salud pública.
+
+185
+00:20:29,619 --> 00:20:34,164
+Ella cree que existe la posibilidad
+de una infección contagiosa.
+
+186
+00:20:35,750 --> 00:20:37,959
+Dijo que no había señales de infección.
+
+187
+00:20:38,044 --> 00:20:40,087
+Aparentemente, la niña se ahogó.
+
+188
+00:20:40,171 --> 00:20:44,716
+Pero sin pruebas de laboratorio
+es imposible estar seguro.
+
+189
+00:20:45,802 --> 00:20:48,720
+Sería imprudente
+tolerar aun la posibilidad...
+
+190
+00:20:48,805 --> 00:20:51,014
+de un virus inoportuno.
+
+191
+00:20:51,099 --> 00:20:53,225
+Un brote de cólera...
+
+192
+00:20:53,309 --> 00:20:56,812
+se vería sumamente mal
+en un reporte, ¿no, señor?
+
+193
+00:20:59,482 --> 00:21:02,067
+Tenemos 25 prisioneros en esta cárcel.
+
+194
+00:21:02,151 --> 00:21:04,194
+Todos de doble cromosoma Y.
+
+195
+00:21:04,278 --> 00:21:09,157
+Todos ladrones, violadores, asesinos,
+violadores de niños. Escoria.
+
+196
+00:21:09,242 --> 00:21:13,245
+Que se hayan vuelto religiosos
+no significa que sean inofensivos.
+
+197
+00:21:13,329 --> 00:21:15,747
+Yo trato de no ofender sus convicciones.
+
+198
+00:21:15,832 --> 00:21:18,333
+No quiero alterar el orden.
+
+199
+00:21:19,627 --> 00:21:22,212
+No quiero alborotos en el gallinero.
+
+200
+00:21:22,296 --> 00:21:26,299
+Y no quiero una mujer paseándose,
+dándoles ideas.
+
+201
+00:21:27,301 --> 00:21:28,468
+Ya veo.
+
+202
+00:21:28,553 --> 00:21:31,138
+Por mi seguridad personal.
+
+203
+00:21:32,223 --> 00:21:33,223
+Exacto.
+
+204
+00:21:34,142 --> 00:21:37,853
+Le voy a dejar los detalles
+de la cremación a usted.
+
+205
+00:21:41,399 --> 00:21:45,318
+Pueden usar el horno, pero quiero
+a todos en sus celdas a las 10 p.m.
+
+206
+00:21:45,403 --> 00:21:46,403
+Usted lo dijo, señor.
+
+207
+00:22:50,466 --> 00:22:53,384
+Encomendamos a esta niña...
+
+208
+00:22:53,469 --> 00:22:56,387
+y a este hombre a tu custodia, Señor.
+
+209
+00:22:58,057 --> 00:23:00,266
+Sus cuerpos...
+
+210
+00:23:00,351 --> 00:23:05,063
+no volverán a ser envueltos
+por la sombra de nuestra noche.
+
+211
+00:23:07,024 --> 00:23:10,902
+Han sido liberados...
+
+212
+00:23:10,986 --> 00:23:13,029
+de toda la oscuridad...
+
+213
+00:23:13,113 --> 00:23:15,198
+y el dolor.
+
+214
+00:23:19,578 --> 00:23:21,412
+La niña...
+
+215
+00:23:21,497 --> 00:23:22,872
+y el hombre...
+
+216
+00:23:23,749 --> 00:23:27,502
+se han ido más allá de nuestro mundo.
+
+217
+00:23:27,586 --> 00:23:29,837
+Existen para siempre...
+
+218
+00:23:29,922 --> 00:23:31,422
+eternos...
+
+219
+00:23:32,174 --> 00:23:33,716
+e imperecederos.
+
+220
+00:23:38,055 --> 00:23:39,764
+Polvo somos...
+
+221
+00:23:40,808 --> 00:23:42,183
+y en polvo...
+
+222
+00:23:42,268 --> 00:23:43,351
+nos convertiremos.
+
+223
+00:23:44,770 --> 00:23:46,521
+¿Por qué?
+
+224
+00:23:48,315 --> 00:23:50,942
+¿Por qué son castigados los inocentes?
+
+225
+00:23:56,031 --> 00:23:58,908
+¿Por qué el sacrificio?
+
+226
+00:24:01,704 --> 00:24:03,454
+¿Por qué el dolor?
+
+227
+00:24:06,292 --> 00:24:09,294
+No hay promesas que valgan.
+
+228
+00:24:11,130 --> 00:24:12,422
+Nada es seguro.
+
+229
+00:24:13,424 --> 00:24:16,384
+Sólo que a algunos los llamas.
+
+230
+00:24:16,468 --> 00:24:18,553
+Algunos se salvan.
+
+231
+00:24:18,637 --> 00:24:21,973
+Ella nunca conocerá las privaciones...
+
+232
+00:24:22,057 --> 00:24:25,226
+y las penas de aquellos
+que nos quedamos atrás.
+
+233
+00:24:26,186 --> 00:24:29,230
+Encomendamos estos cuerpos al vacío...
+
+234
+00:24:30,107 --> 00:24:32,567
+con dicha en el corazón.
+
+235
+00:24:43,162 --> 00:24:45,371
+Puesto que dentro de cada semilla...
+
+236
+00:24:45,456 --> 00:24:47,874
+existe la promesa de una flor.
+
+237
+00:24:52,296 --> 00:24:53,921
+Y dentro de cada muerte...
+
+238
+00:24:54,006 --> 00:24:55,006
+no importa...
+
+239
+00:24:55,966 --> 00:24:57,050
+cuán pequeña...
+
+240
+00:24:58,344 --> 00:25:00,595
+siempre hay una nueva vida...
+
+241
+00:25:04,600 --> 00:25:06,267
+un nuevo...
+
+242
+00:25:06,352 --> 00:25:07,352
+principio.
+
+243
+00:25:11,982 --> 00:25:13,066
+¡Amén!
+
+244
+00:25:15,819 --> 00:25:17,195
+Amén.
+
+245
+00:25:48,310 --> 00:25:50,812
+Qué encabronadamente raro.
+
+246
+00:25:50,896 --> 00:25:53,898
+Sólo una mujer
+sobrevivió en el aterrizaje.
+
+247
+00:25:53,982 --> 00:25:55,775
+¿Qué líos puede causar?
+
+248
+00:25:55,859 --> 00:25:57,735
+Ya cambió todas las cosas.
+
+249
+00:26:07,079 --> 00:26:09,372
+¿Qué carajos vamos a hacer?
+
+250
+00:26:09,915 --> 00:26:11,791
+Yo, en lo personal...
+
+251
+00:26:14,420 --> 00:26:15,878
+Lo digo en serio.
+
+252
+00:26:24,221 --> 00:26:26,013
+Aquí no, eso es seguro.
+
+253
+00:27:16,982 --> 00:27:18,441
+Sólo quería...
+
+254
+00:27:19,526 --> 00:27:22,361
+darle las gracias por lo que dijo. Fue...
+
+255
+00:27:24,156 --> 00:27:26,032
+Les hubiera gustado.
+
+256
+00:27:26,116 --> 00:27:28,910
+No le aconsejo que me conozca.
+
+257
+00:27:29,828 --> 00:27:33,080
+Soy un asesino, un violador.
+
+258
+00:27:34,500 --> 00:27:35,750
+¿De veras?
+
+259
+00:27:39,588 --> 00:27:42,757
+Supongo que lo he de poner nervioso.
+
+260
+00:27:58,148 --> 00:28:00,233
+¿Tiene Ud. fe?
+
+261
+00:28:00,317 --> 00:28:01,859
+No mucha.
+
+262
+00:28:01,944 --> 00:28:04,278
+Aquí tenemos mucha fe.
+
+263
+00:28:05,614 --> 00:28:06,822
+Alcanza hasta para Ud.
+
+264
+00:28:08,325 --> 00:28:11,536
+- Yo creía que no aceptaban mujeres.
+- Nunca había habido una.
+
+265
+00:28:12,955 --> 00:28:14,997
+Pero toleramos a quien sea.
+
+266
+00:28:16,124 --> 00:28:17,458
+Hasta al intolerable.
+
+267
+00:28:19,586 --> 00:28:20,586
+Gracias.
+
+268
+00:28:21,380 --> 00:28:25,299
+Eso es una declaración de principios.
+No es nada personal.
+
+269
+00:28:25,384 --> 00:28:27,718
+Tenemos aquí un buen lugar para esperar.
+
+270
+00:28:28,804 --> 00:28:31,055
+Hasta ahora...
+
+271
+00:28:31,139 --> 00:28:32,473
+libre de tentaciones.
+
+272
+00:28:34,434 --> 00:28:39,480
+Dillon y los demás... "diferentes"...
+
+273
+00:28:39,565 --> 00:28:41,732
+abrazaron la religión...
+
+274
+00:28:41,817 --> 00:28:44,151
+hace como 5 años.
+
+275
+00:28:44,236 --> 00:28:45,820
+¿Tintura?
+
+276
+00:28:45,904 --> 00:28:47,446
+Estoy medicada.
+
+277
+00:28:47,531 --> 00:28:48,656
+Muy poco.
+
+278
+00:28:48,740 --> 00:28:49,949
+¿Qué clase de religión?
+
+279
+00:28:50,033 --> 00:28:55,413
+Una especie de cristianismo
+fundamentalista apocalíptico milenario...
+
+280
+00:28:55,497 --> 00:28:57,915
+- Entiendo.
+- Exacto.
+
+281
+00:28:58,000 --> 00:29:00,835
+Cuando la compañía
+decidió cerrar este lugar...
+
+282
+00:29:00,919 --> 00:29:04,630
+Dillon y los demás conversos
+quisieron quedarse.
+
+283
+00:29:04,715 --> 00:29:06,757
+Y les permitieron...
+
+284
+00:29:06,842 --> 00:29:11,512
+quedarse como custodios,
+con dos celadores...
+
+285
+00:29:11,597 --> 00:29:13,222
+y un oficial médico.
+
+286
+00:29:14,600 --> 00:29:15,891
+Y aquí estamos.
+
+287
+00:29:16,810 --> 00:29:19,103
+¿Por qué le tocó este divino puesto?
+
+288
+00:29:23,066 --> 00:29:24,317
+¿Le gusta su cabello?
+
+289
+00:29:26,278 --> 00:29:27,320
+Está bien.
+
+290
+00:29:45,255 --> 00:29:48,924
+Ya que desafié a Andrews por usted...
+
+291
+00:29:49,009 --> 00:29:53,054
+dañando mi
+ya imperfecta relación con él...
+
+292
+00:29:53,138 --> 00:29:55,598
+y le relaté la soporífera historia...
+
+293
+00:29:55,682 --> 00:29:57,725
+de Furia 161...
+
+294
+00:29:58,977 --> 00:30:01,187
+dígame qué estaba buscando.
+
+295
+00:30:01,271 --> 00:30:03,105
+¿Se siente atraído a mí?
+
+296
+00:30:05,150 --> 00:30:06,484
+¿En qué sentido?
+
+297
+00:30:09,613 --> 00:30:10,655
+En ese sentido.
+
+298
+00:30:12,991 --> 00:30:14,158
+Es Ud. muy directa.
+
+299
+00:30:16,495 --> 00:30:18,371
+Llevo mucho tiempo en el espacio.
+
+300
+00:30:22,834 --> 00:30:28,255
+<i>En el año 7510</i>
+
+301
+00:30:28,339 --> 00:30:30,507
+<i>Si Dios va a venir</i>
+
+302
+00:30:30,592 --> 00:30:34,261
+<i>Habrá de llegar para entonces</i>
+
+303
+00:30:34,345 --> 00:30:37,931
+<i>Quizá echará un vistazo y dirá</i>
+
+304
+00:30:38,016 --> 00:30:41,310
+<i>Supongo que es hora del Día del...</i>
+
+305
+00:31:09,213 --> 00:31:11,214
+<i>En el año</i>
+
+306
+00:31:17,055 --> 00:31:18,221
+Eh, Spike.
+
+307
+00:31:19,932 --> 00:31:20,974
+¡Spikey!
+
+308
+00:31:26,481 --> 00:31:29,191
+¿Qué estás haciendo? ¿Qué estás haciendo?
+
+309
+00:32:14,106 --> 00:32:16,274
+Te agradezco profundamente
+todos tus afectos.
+
+310
+00:32:18,569 --> 00:32:21,612
+Pero sé que los usaste
+para eludir mi pregunta.
+
+311
+00:32:23,615 --> 00:32:26,492
+De la manera más linda posible.
+
+312
+00:32:30,330 --> 00:32:32,123
+Estás aguando la fiesta.
+
+313
+00:32:33,959 --> 00:32:35,501
+Tengo que hacer mi trabajo.
+
+314
+00:32:36,962 --> 00:32:38,838
+¿Por qué incineramos los cadáveres?
+
+315
+00:32:38,922 --> 00:32:41,924
+Tuve un sueño espantoso en el hipersueño.
+
+316
+00:32:43,302 --> 00:32:46,053
+Necesitaba estar segura
+de qué la había matado.
+
+317
+00:32:46,138 --> 00:32:48,389
+De todas maneras, cometí un error.
+
+318
+00:32:50,309 --> 00:32:51,309
+Posiblemente.
+
+319
+00:32:54,104 --> 00:32:57,398
+- Y ahora, cometí otro.
+- ¿Cuál?
+
+320
+00:32:57,482 --> 00:32:59,567
+Fraternizar con un prisionero.
+
+321
+00:33:00,485 --> 00:33:02,403
+Contacto físico.
+
+322
+00:33:03,280 --> 00:33:04,363
+Va contra las reglas.
+
+323
+00:33:07,534 --> 00:33:09,118
+Yo no soy un prisionero.
+
+324
+00:33:12,080 --> 00:33:14,665
+Tienes un código marcado en la cabeza.
+
+325
+00:33:19,546 --> 00:33:21,422
+Sí, eso merece una explicación.
+
+326
+00:33:24,092 --> 00:33:25,384
+Este no es el momento.
+
+327
+00:33:32,476 --> 00:33:33,267
+<i>Sr. Clemens.</i>
+
+328
+00:33:35,644 --> 00:33:36,894
+Sr. Aaron.
+
+329
+00:33:36,979 --> 00:33:40,856
+<i>Andrews quiere que se reporte
+al pozo de ventilación 22.</i>
+
+330
+00:33:40,941 --> 00:33:43,651
+<i>Ahora mismo. Hubo un accidente.</i>
+
+331
+00:33:43,735 --> 00:33:46,654
+<i>- ¿Serio?
+- Se podría decir que sí.</i>
+
+332
+00:33:46,738 --> 00:33:49,865
+<i>Uno de los prisioneros fue... rebanado.</i>
+
+333
+00:33:49,950 --> 00:33:51,826
+Discúlpame.
+
+334
+00:33:51,910 --> 00:33:53,703
+Me tengo que ir.
+
+335
+00:33:56,081 --> 00:33:57,498
+Deberes oficiales.
+
+336
+00:34:26,778 --> 00:34:29,864
+- ¿Quién fue?
+- Murphy.
+
+337
+00:34:29,948 --> 00:34:30,948
+¿Cómo lo sabe?
+
+338
+00:34:32,326 --> 00:34:34,619
+Esa bota es de él.
+
+339
+00:34:36,371 --> 00:34:39,081
+Yo le asigné esta tarea. Era un idiota.
+
+340
+00:34:39,166 --> 00:34:41,584
+Nada de excusas. No fue culpa tuya.
+
+341
+00:34:53,472 --> 00:34:57,600
+No hay mucho que decir, ¿verdad?
+La muerte fue instantánea.
+
+342
+00:34:57,684 --> 00:34:58,684
+No me digas.
+
+343
+00:34:58,769 --> 00:35:01,145
+¿El ventilador lo succionó?
+
+344
+00:35:01,229 --> 00:35:03,189
+Una corriente repentina, pero...
+
+345
+00:35:03,273 --> 00:35:05,358
+Por poco me pasa a mí una vez.
+
+346
+00:35:05,442 --> 00:35:07,276
+¿Cuántas veces les habré dicho:
+
+347
+00:35:07,361 --> 00:35:09,904
+"No se acerquen a los ventiladores"?
+
+348
+00:35:10,572 --> 00:35:11,822
+Nadie me hace caso.
+
+349
+00:35:11,907 --> 00:35:13,658
+Pero el ventilador estaba soplando.
+
+350
+00:35:22,000 --> 00:35:24,001
+- ¿Qué es eso?
+- No sé.
+
+351
+00:35:24,086 --> 00:35:28,089
+Quiero verlo en mi cuarto
+en 30 minutos, si es tan amable.
+
+352
+00:35:36,098 --> 00:35:37,348
+¿Tiene alguna idea?
+
+353
+00:35:49,980 --> 00:35:50,813
+CAJA NEGRA
+
+354
+00:36:22,262 --> 00:36:24,263
+Ya te vi.
+
+355
+00:36:24,347 --> 00:36:28,976
+Si andas paseando sin escolta,
+Andrews se va a enojar mucho.
+
+356
+00:36:30,103 --> 00:36:32,313
+Cuéntame de tu accidente.
+
+357
+00:36:32,397 --> 00:36:34,273
+Un prisionero murió.
+
+358
+00:36:36,193 --> 00:36:38,527
+¿De veras? ¿Cómo?
+
+359
+00:36:38,612 --> 00:36:40,112
+En el pozo de ventilación.
+
+360
+00:36:41,114 --> 00:36:43,699
+El pobre se metió en un ventilador de 3 m.
+
+361
+00:36:44,910 --> 00:36:47,244
+Encontré algo en el lugar del accidente...
+
+362
+00:36:47,329 --> 00:36:50,748
+bastante cerca de donde sucedió.
+
+363
+00:36:50,832 --> 00:36:52,666
+Una marca.
+
+364
+00:36:52,751 --> 00:36:53,876
+Una quemadura.
+
+365
+00:36:55,879 --> 00:36:59,548
+Como la del tubo criogénico de la niña.
+
+366
+00:37:05,180 --> 00:37:06,722
+Mira...
+
+367
+00:37:06,806 --> 00:37:08,224
+yo estoy de tu parte.
+
+368
+00:37:09,226 --> 00:37:12,645
+Te quiero ayudar, pero necesito saber
+qué está pasando...
+
+369
+00:37:12,729 --> 00:37:14,855
+o qué crees tú que está pasando.
+
+370
+00:37:17,817 --> 00:37:20,069
+Si me quieres ayudar, consígueme...
+
+371
+00:37:20,153 --> 00:37:23,989
+una computadora que pueda reproducir
+lo que hay en esta caja negra.
+
+372
+00:37:24,074 --> 00:37:25,950
+No tenemos semejante cosa.
+
+373
+00:37:27,285 --> 00:37:28,661
+¿Qué tal Bishop?
+
+374
+00:37:28,745 --> 00:37:31,330
+El androide que se estrelló conmigo.
+
+375
+00:37:31,414 --> 00:37:33,832
+Te puedo decir dónde está.
+
+376
+00:37:33,917 --> 00:37:35,876
+No te puedo acompañar.
+
+377
+00:37:35,961 --> 00:37:37,962
+Tengo una cita previa.
+
+378
+00:37:40,715 --> 00:37:40,756
+Escuche, pedazo de animal.
+
+379
+00:37:40,757 --> 00:37:42,967
+Escuche, pedazo de animal.
+
+380
+00:37:43,051 --> 00:37:45,928
+Siga jugando conmigo
+y lo voy a cortar a la mitad.
+
+381
+00:37:47,097 --> 00:37:49,223
+Lo siento, no entiendo.
+
+382
+00:37:49,307 --> 00:37:52,351
+A las 7 a.m.
+recibí un comunicado de la red.
+
+383
+00:37:52,435 --> 00:37:55,312
+Es la primera comunicación
+de alto nivel...
+
+384
+00:37:55,397 --> 00:37:58,899
+que esta instalación ha recibido,
+que yo sepa.
+
+385
+00:37:59,901 --> 00:38:01,485
+Quieren que la cuidemos.
+
+386
+00:38:01,569 --> 00:38:04,280
+- La consideran de alta prioridad.
+- ¿Por qué?
+
+387
+00:38:04,364 --> 00:38:05,781
+No tengo idea.
+
+388
+00:38:07,242 --> 00:38:09,493
+¿Por qué la dejó salir de la enfermería?
+
+389
+00:38:10,203 --> 00:38:11,870
+Los accidentes como los de Murphy...
+
+390
+00:38:11,955 --> 00:38:15,374
+suceden cuando a estos idiotas
+se les para el pito.
+
+391
+00:38:15,458 --> 00:38:17,126
+Yo soy doctor.
+Usted, celador.
+
+392
+00:38:19,879 --> 00:38:22,798
+Los dos sabemos exactamente
+lo que es usted.
+
+393
+00:38:23,675 --> 00:38:26,802
+- Siéntese.
+- Será mejor que me vaya.
+
+394
+00:38:26,886 --> 00:38:30,597
+- Ud. me resulta desagradable.
+- ¿Ah, sí?
+
+395
+00:38:30,682 --> 00:38:32,850
+Pues qué bien. Pero piense en esto:
+
+396
+00:38:34,144 --> 00:38:37,313
+¿Quiere que le detalle
+su inmunda historia...
+
+397
+00:38:37,397 --> 00:38:42,318
+a su nueva amiga?
+Para el beneficio de ella, claro.
+
+398
+00:38:43,570 --> 00:38:45,446
+Ahora siéntese, carajo.
+
+399
+00:38:57,292 --> 00:39:00,753
+¿Hay algo que yo deba saber?
+
+400
+00:40:39,602 --> 00:40:41,854
+¡Cállate, maldita perra!
+
+401
+00:40:41,938 --> 00:40:43,439
+¡Cállate, perra!
+
+402
+00:40:44,190 --> 00:40:46,942
+¡Carajo, suéltenme!
+
+403
+00:40:47,777 --> 00:40:49,611
+¡Vete al carajo!
+
+404
+00:40:51,614 --> 00:40:53,532
+¡Vamos a matarla!
+
+405
+00:41:03,209 --> 00:41:04,460
+¿Está Ud. bien?
+
+406
+00:41:15,138 --> 00:41:18,974
+¡Váyase! Tengo que reeducar
+a varios hermanos.
+
+407
+00:41:19,893 --> 00:41:22,227
+Discutir cuestiones del espíritu.
+
+408
+00:41:33,863 --> 00:41:36,615
+Esto mide como 10 cuadras.
+
+409
+00:41:38,993 --> 00:41:40,119
+¿Cuántas llevamos?
+
+410
+00:41:41,204 --> 00:41:45,374
+176, con esta.
+
+411
+00:41:46,334 --> 00:41:48,043
+No hagas tanto ruido.
+
+412
+00:41:48,128 --> 00:41:50,921
+Estoy calculando
+el tamaño de este compartimiento.
+
+413
+00:41:51,005 --> 00:41:54,425
+- Me molesta el jodido ruido.
+- No maldigas.
+
+414
+00:41:54,509 --> 00:41:55,551
+Lo siento.
+
+415
+00:41:56,261 --> 00:41:58,303
+Bueno...
+
+416
+00:41:58,388 --> 00:42:00,681
+ya rodeamos este compartimiento.
+
+417
+00:42:00,765 --> 00:42:02,182
+¿Qué?
+
+418
+00:42:07,188 --> 00:42:09,982
+- ¿Qué carajos está haciendo eso?
+- No maldigas.
+
+419
+00:42:10,066 --> 00:42:13,527
+¡Cállate! Se puede decir "carajo".
+No es contra Dios.
+
+420
+00:42:13,611 --> 00:42:15,821
+¿Qué demonios les pasa a las velas?
+
+421
+00:42:20,743 --> 00:42:25,414
+Debe de ser el viento de la unidad
+de ventilación más cercana.
+
+422
+00:42:27,125 --> 00:42:29,293
+Si se apagan, nos perdemos.
+
+423
+00:42:29,377 --> 00:42:31,795
+Alguien va a tener que reencenderlas.
+
+424
+00:42:34,174 --> 00:42:35,549
+Supongo que yo.
+
+425
+00:42:46,436 --> 00:42:47,895
+Ten cuidado, hermano.
+
+426
+00:42:57,614 --> 00:43:00,782
+A ver, ¿quiénes son los cómicos?
+
+427
+00:43:48,665 --> 00:43:49,665
+¡Aquí!
+
+428
+00:43:49,749 --> 00:43:50,999
+¡Auxilio!
+
+429
+00:43:53,545 --> 00:43:55,837
+¡Corre! ¡Rápido, carajo!
+
+430
+00:43:57,757 --> 00:44:00,342
+¡Vámonos! ¡Rápido! ¡Pronto!
+
+431
+00:44:10,353 --> 00:44:11,353
+¡Dame eso!
+
+432
+00:44:53,146 --> 00:44:54,771
+¡Quítamelo de encima!
+
+433
+00:44:57,150 --> 00:44:59,109
+¡Suéltame!
+
+434
+00:45:57,126 --> 00:45:58,126
+Hola.
+
+435
+00:46:02,674 --> 00:46:06,593
+Hola, Bishop. ¿Cómo te sientes?
+
+436
+00:46:06,678 --> 00:46:08,595
+Me duelen las piernas.
+
+437
+00:46:09,472 --> 00:46:10,764
+Mira, lo siento.
+
+438
+00:46:10,848 --> 00:46:13,517
+Descuida. Sólo soy
+un tostador glorificado.
+
+439
+00:46:14,310 --> 00:46:15,352
+¿Cómo estás tú?
+
+440
+00:46:16,979 --> 00:46:19,231
+Me gusta tu nuevo corte de cabello.
+
+441
+00:46:19,315 --> 00:46:21,566
+¿Puedes penetrar la caja negra?
+
+442
+00:46:21,651 --> 00:46:22,317
+Claro.
+
+443
+00:46:28,318 --> 00:46:29,443
+Ya llegué.
+
+444
+00:46:30,362 --> 00:46:34,281
+¿Qué pasó con el Sulaco?
+¿Por qué fueron expulsados los tubos?
+
+445
+00:46:34,366 --> 00:46:36,909
+<i>Estasis interrumpida.</i>
+
+446
+00:46:36,993 --> 00:46:40,245
+<i>Fuego en el sector criogénico.</i>
+
+447
+00:46:40,330 --> 00:46:42,623
+<i>Repito. Fuego en el sector crio...</i>
+
+448
+00:46:42,707 --> 00:46:45,960
+¿Qué pasó? ¿Por qué empezó el fuego?
+
+449
+00:46:47,128 --> 00:46:48,128
+¿Me oyes?
+
+450
+00:46:50,423 --> 00:46:52,299
+El fuego fue eléctrico.
+
+451
+00:46:52,384 --> 00:46:55,803
+Empezó en el subsuelo.
+
+452
+00:46:55,887 --> 00:46:59,473
+¿Los sensores detectaron
+algún movimiento a bordo?
+
+453
+00:47:00,183 --> 00:47:03,060
+Está muy oscuro aquí.
+Ya no soy el mismo de antes.
+
+454
+00:47:03,144 --> 00:47:06,522
+Nada más dime,
+¿indica algo la caja negra?
+
+455
+00:47:07,524 --> 00:47:09,483
+¿Había un alienígena a bordo?
+
+456
+00:47:11,528 --> 00:47:13,320
+Sí.
+
+457
+00:47:16,658 --> 00:47:18,325
+¿Está en el Sulaco?
+
+458
+00:47:18,410 --> 00:47:20,828
+¿Vino en el VEE?
+
+459
+00:47:21,538 --> 00:47:24,164
+Estuvo con nosotros todo el tiempo.
+
+460
+00:47:27,836 --> 00:47:29,211
+¿Lo sabe la compañía?
+
+461
+00:47:30,213 --> 00:47:33,465
+Saben todo lo que pasó en la nave.
+
+462
+00:47:33,550 --> 00:47:38,137
+Todo entra en la computadora.
+Es transmitido a la red.
+
+463
+00:47:38,221 --> 00:47:39,972
+Y ellos lo quieren.
+
+464
+00:47:40,056 --> 00:47:42,099
+Estoy sufriendo.
+
+465
+00:47:42,183 --> 00:47:44,184
+Hazme un favor.
+
+466
+00:47:44,269 --> 00:47:45,352
+Desconéctame.
+
+467
+00:47:45,437 --> 00:47:49,523
+Me podrían componer,
+pero no volvería a ser de primera clase.
+
+468
+00:47:50,608 --> 00:47:52,276
+Prefiero no ser nada.
+
+469
+00:47:53,862 --> 00:47:54,862
+¿Estás seguro?
+
+470
+00:47:56,656 --> 00:47:58,699
+Hazlo por mí.
+
+471
+00:48:13,957 --> 00:48:17,251
+No fui yo. Yo no los maté.
+
+472
+00:48:17,335 --> 00:48:18,835
+Ayúdame.
+
+473
+00:48:18,920 --> 00:48:21,463
+Yo no fui. Fue el dragón.
+
+474
+00:48:21,547 --> 00:48:22,965
+Se alimenta de las mentes.
+
+475
+00:48:23,049 --> 00:48:25,133
+Nadie lo puede detener.
+
+476
+00:48:25,218 --> 00:48:30,722
+- ¿Qué pasó con Boggs y Rains?
+- Los degolló como a cerdos. ¡No fui yo!
+
+477
+00:48:30,807 --> 00:48:33,475
+- No fui yo.
+- Está loco de atar.
+
+478
+00:48:33,559 --> 00:48:36,144
+No fue culpa de nadie.
+Había que encadenarlo.
+
+479
+00:48:36,229 --> 00:48:39,731
+Ud. lo dijo, señor.
+Loco como una cabra.
+
+480
+00:48:39,816 --> 00:48:43,485
+Sepárenlo de los demás.
+No quiero que cunda el pánico.
+
+481
+00:48:44,779 --> 00:48:45,737
+Dele un calmante.
+
+482
+00:48:45,822 --> 00:48:47,447
+Antes, quiero saber
+qué pasó con los hermanos.
+
+483
+00:48:48,992 --> 00:48:52,202
+Cálmate. Quiero que hables conmigo ahora.
+
+484
+00:48:52,287 --> 00:48:55,038
+- ¿Dónde están Boggs y Rains?
+- No fui yo.
+
+485
+00:48:55,123 --> 00:48:57,332
+Es inútil. No le va a sacar nada.
+
+486
+00:48:58,334 --> 00:49:00,085
+Enviaremos un equipo de búsqueda.
+
+487
+00:49:00,169 --> 00:49:03,839
+Tendremos que suponer
+que este desgraciado los mató.
+
+488
+00:49:06,759 --> 00:49:08,927
+No puede decir eso.
+
+489
+00:49:10,263 --> 00:49:12,139
+Él nunca me ha mentido.
+
+490
+00:49:13,141 --> 00:49:16,268
+Estará loco, será un tonto,
+pero no es mentiroso.
+
+491
+00:49:18,271 --> 00:49:19,813
+Está diciendo la verdad.
+
+492
+00:49:20,815 --> 00:49:23,859
+Quisiera hablar con él
+acerca de ese dragón.
+
+493
+00:49:23,943 --> 00:49:25,527
+Es un dragón.
+
+494
+00:49:25,611 --> 00:49:26,945
+Ud. no hablará con nadie.
+
+495
+00:49:27,864 --> 00:49:32,117
+No me interesa su opinión.
+Ud. no conoce los hechos.
+
+496
+00:49:32,201 --> 00:49:36,496
+Él es un asesino múltiple,
+culpable de crímenes brutales.
+
+497
+00:49:36,581 --> 00:49:38,582
+¿No es así, Sr. Dillon?
+
+498
+00:49:38,666 --> 00:49:41,335
+En eso tiene razón.
+
+499
+00:49:43,838 --> 00:49:46,882
+Entonces hablaré con Ud. Es importante.
+
+500
+00:49:46,966 --> 00:49:51,970
+Cuando acabe con mis deberes oficiales,
+con gusto charlaré con Ud.
+
+501
+00:49:56,434 --> 00:49:58,977
+<i>Déjeme ver si entendí bien.</i>
+
+502
+00:49:59,979 --> 00:50:03,357
+Es un ser de 2.50 m de alto,
+con ácido en las venas...
+
+503
+00:50:03,441 --> 00:50:05,067
+y llegó en su nave.
+
+504
+00:50:06,069 --> 00:50:09,654
+Mata en el acto y es,
+en general, desagradable.
+
+505
+00:50:09,739 --> 00:50:12,282
+Ud. espera que yo acepte todo eso.
+
+506
+00:50:12,367 --> 00:50:14,743
+No, yo no espero nada.
+
+507
+00:50:14,827 --> 00:50:16,203
+Vaya historia.
+
+508
+00:50:16,287 --> 00:50:18,372
+Sí, señor. Maravillosa.
+
+509
+00:50:19,832 --> 00:50:22,751
+- Nunca había oído nada igual.
+- Y con razón.
+
+510
+00:50:22,835 --> 00:50:25,504
+Dígame, ¿qué sugiere que hagamos?
+
+511
+00:50:28,383 --> 00:50:31,510
+- ¿Qué armas tienen?
+- Esto es una prisión.
+
+512
+00:50:31,594 --> 00:50:34,304
+No es bueno darles
+acceso a armas a los reos.
+
+513
+00:50:34,389 --> 00:50:36,181
+Así evita que lo maten.
+
+514
+00:50:36,265 --> 00:50:39,518
+Sí. No hay manera de escapar de aquí.
+
+515
+00:50:39,602 --> 00:50:43,313
+La compañía lo eliminará
+cuando llegue la nave de suministros.
+
+516
+00:50:43,398 --> 00:50:45,357
+Esta es una prisión...
+
+517
+00:50:45,441 --> 00:50:47,150
+de máxima seguridad...
+
+518
+00:50:48,778 --> 00:50:52,447
+¿y no tienen ninguna clase de armas?
+
+519
+00:50:54,784 --> 00:50:58,662
+Tenemos cuchillos en el matadero,
+unos cuantos en el comedor.
+
+520
+00:50:58,746 --> 00:51:02,040
+Hachas para incendios aquí
+y allá, nada muy formidable.
+
+521
+00:51:02,125 --> 00:51:03,417
+¿Eso es todo?
+
+522
+00:51:03,501 --> 00:51:05,252
+Los reos guardan el orden solos.
+
+523
+00:51:11,293 --> 00:51:15,463
+- Entonces estamos jodidos.
+- Ud. está jodida.
+
+524
+00:51:16,131 --> 00:51:18,925
+Recluida en la enfermería. En cuarentena.
+
+525
+00:51:19,009 --> 00:51:21,552
+El Sr. Aaron la escoltará.
+
+526
+00:51:21,637 --> 00:51:25,473
+Estará a salvo de bestias peludas
+mientras esté ahí dentro.
+
+527
+00:51:29,102 --> 00:51:30,478
+Así me gusta.
+
+528
+00:51:33,273 --> 00:51:36,692
+<i>Repórtense al comedor.
+Andrews quiere hablar con todos.</i>
+
+529
+00:51:36,777 --> 00:51:39,111
+<i>Al comedor, de inmediato.</i>
+
+530
+00:51:39,196 --> 00:51:43,449
+¿No hay alguna manera
+de irse de aquí, de escapar?
+
+531
+00:51:44,493 --> 00:51:46,827
+Vienen naves de suministros cada 6 meses.
+
+532
+00:51:46,912 --> 00:51:49,121
+- ¿Eso es todo?
+- Eso es todo.
+
+533
+00:51:49,915 --> 00:51:50,915
+¡Carajo!
+
+534
+00:51:52,251 --> 00:51:55,544
+Ya enviaron a alguien por ti.
+Va a llegar pronto.
+
+535
+00:51:56,546 --> 00:51:57,588
+¿De veras?
+
+536
+00:51:58,632 --> 00:52:00,299
+- ¿Qué tan pronto?
+- No sé.
+
+537
+00:52:01,093 --> 00:52:04,095
+Nadie había tenido prisa por llegar aquí.
+
+538
+00:52:07,766 --> 00:52:09,642
+Dime de qué hablaste con Andrews.
+
+539
+00:52:12,104 --> 00:52:14,021
+Vas a decir que estoy loca.
+
+540
+00:52:16,191 --> 00:52:17,441
+Me subestimas.
+
+541
+00:52:26,285 --> 00:52:27,285
+¿Cómo te sientes?
+
+542
+00:52:28,870 --> 00:52:29,996
+No muy bien.
+
+543
+00:52:32,833 --> 00:52:35,710
+Me duele la garganta, tengo náuseas...
+
+544
+00:52:36,461 --> 00:52:37,503
+y estoy enojada.
+
+545
+00:52:38,297 --> 00:52:40,006
+Es comprensible, dadas las circunstancias.
+
+546
+00:52:41,508 --> 00:52:43,968
+¿Te doy mi coctel especial?
+
+547
+00:52:45,137 --> 00:52:47,888
+¿Por qué todos les echan
+la culpa a todos por todo?
+
+548
+00:52:47,973 --> 00:52:50,558
+Nadie es perfecto. Somos humanos.
+
+549
+00:52:50,642 --> 00:52:53,811
+No conozco a ningún humano perfecto.
+Ni uno.
+
+550
+00:52:55,147 --> 00:52:56,272
+¿Eres casada?
+
+551
+00:52:58,358 --> 00:53:00,693
+<i>- ¿Yo?
+- Cásate, ten hijos.</i>
+
+552
+00:53:00,777 --> 00:53:02,903
+Chica bonita.
+
+553
+00:53:02,988 --> 00:53:05,990
+Yo conocía a muchas en mi tierra.
+
+554
+00:53:07,284 --> 00:53:08,743
+Yo les gustaba.
+
+555
+00:53:12,372 --> 00:53:13,372
+Por un rato.
+
+556
+00:53:19,379 --> 00:53:20,379
+Tú también vas a morir.
+
+557
+00:53:28,388 --> 00:53:29,513
+¿Sí eres?
+
+558
+00:53:30,766 --> 00:53:32,099
+¿Qué?
+
+559
+00:53:33,018 --> 00:53:34,435
+¿Casada?
+
+560
+00:53:34,519 --> 00:53:35,895
+¿Por qué?
+
+561
+00:53:37,022 --> 00:53:38,272
+Por simple curiosidad.
+
+562
+00:53:43,153 --> 00:53:44,445
+Dime la verdad.
+
+563
+00:53:46,031 --> 00:53:50,326
+Cuando te pregunté qué hacías aquí,
+no me contestaste.
+
+564
+00:53:50,410 --> 00:53:55,164
+Cuando te pregunté del código de reo
+que tienes tatuado, tampoco.
+
+565
+00:53:58,627 --> 00:54:00,753
+Es una larga y triste historia...
+
+566
+00:54:03,131 --> 00:54:04,382
+Bastante melodramática.
+
+567
+00:54:04,466 --> 00:54:06,884
+Cuéntamela.
+
+568
+00:54:09,221 --> 00:54:11,389
+Si insistes.
+
+569
+00:54:15,936 --> 00:54:17,395
+Después de mis años de estudiante...
+
+570
+00:54:19,481 --> 00:54:21,649
+a pesar de que me había...
+
+571
+00:54:22,651 --> 00:54:25,528
+vuelto adicto a la morfina...
+
+572
+00:54:25,612 --> 00:54:27,363
+se me consideraba prometedor.
+
+573
+00:54:28,073 --> 00:54:29,657
+Un hombre con futuro.
+
+574
+00:54:32,911 --> 00:54:36,914
+En mi residencia, trabajé un turno
+de 36 horas en Urgencias.
+
+575
+00:54:38,458 --> 00:54:41,001
+Luego me emborraché más de un poco.
+
+576
+00:54:42,546 --> 00:54:44,213
+Luego me llamaron de regreso.
+
+577
+00:54:44,297 --> 00:54:49,677
+Había estallado la caldera de una planta.
+Había más de 30 lesionados.
+
+578
+00:54:49,761 --> 00:54:51,095
+11 murieron.
+
+579
+00:54:51,930 --> 00:54:56,016
+No por sus heridas. Les receté
+una dosis excesiva de analgésico.
+
+580
+00:54:58,979 --> 00:55:02,606
+Me sentenciaron a 7 años en la cárcel,
+me degradaron a 3-C.
+
+581
+00:55:06,695 --> 00:55:08,279
+Al menos me quité mi adicción.
+
+582
+00:55:09,489 --> 00:55:10,531
+Lo siento.
+
+583
+00:55:12,576 --> 00:55:14,452
+Creo que fue una sentencia ligera.
+
+584
+00:55:16,371 --> 00:55:17,455
+¿Cumpliste aquí tu condena?
+
+585
+00:55:19,624 --> 00:55:22,543
+Llegué a conocer muy bien
+a estos inadaptados.
+
+586
+00:55:22,627 --> 00:55:24,253
+Así que cuando se quedaron...
+
+587
+00:55:24,921 --> 00:55:25,963
+yo me quedé.
+
+588
+00:55:28,633 --> 00:55:30,176
+Nadie más quería darme trabajo.
+
+589
+00:55:34,473 --> 00:55:35,639
+Así que...
+
+590
+00:55:35,724 --> 00:55:37,475
+¿todavía confías en mí?
+
+591
+00:56:55,220 --> 00:56:58,138
+Una vez más, esto es
+para el control de rumores.
+
+592
+00:56:58,223 --> 00:56:59,682
+He aquí los hechos:
+
+593
+00:57:00,976 --> 00:57:03,811
+A las 8 a.m., el prisionero Murphy...
+
+594
+00:57:03,895 --> 00:57:09,316
+fue encontrado muerto en
+el conducto 17, por descuido de su parte.
+
+595
+00:57:09,401 --> 00:57:11,944
+Parece que el ventilador del conducto
+lo succionó.
+
+596
+00:57:15,406 --> 00:57:18,157
+A las 9 p.m. aproximadamente...
+
+597
+00:57:18,242 --> 00:57:22,370
+el prisionero Golic reapareció,
+fuera de su juicio.
+
+598
+00:57:22,454 --> 00:57:24,789
+Boggs y Rains han desaparecido.
+
+599
+00:57:25,833 --> 00:57:29,502
+Existe la posibilidad
+de que hayan sido asesinados...
+
+600
+00:57:29,587 --> 00:57:32,839
+por el prisionero Golic.
+
+601
+00:57:34,842 --> 00:57:37,635
+Necesitamos enviar
+una cuadrilla a buscarlos.
+
+602
+00:57:38,762 --> 00:57:40,179
+Necesito voluntarios.
+
+603
+00:57:40,264 --> 00:57:42,348
+Les agradeceré que se ofrezcan.
+
+604
+00:57:44,935 --> 00:57:48,813
+Se puede decir que
+en nuestra institución tan eficiente...
+
+605
+00:57:48,897 --> 00:57:52,108
+han surgido, repentinamente,
+varios problemas.
+
+606
+00:57:52,192 --> 00:57:55,111
+Espero que podamos aunar
+nuestros esfuerzos...
+
+607
+00:57:55,195 --> 00:58:01,117
+durante los próximos días,
+hasta que lleguen a rescatar a Ripley.
+
+608
+00:58:01,201 --> 00:58:03,328
+Está aquí. Mató a Clemens.
+
+609
+00:58:03,412 --> 00:58:07,123
+- Deje de desvariar. Ya basta.
+- ¡De veras, está aquí!
+
+610
+00:58:07,207 --> 00:58:10,168
+Aaron, llévate a esa insensata
+a la enfermería.
+
+611
+00:58:22,428 --> 00:58:23,637
+¡Carajo!
+
+612
+00:58:29,060 --> 00:58:30,977
+<i>¿Qué hacemos ahora?</i>
+
+613
+00:58:31,062 --> 00:58:32,354
+<i>¿Quién está al mando?</i>
+
+614
+00:58:33,815 --> 00:58:34,815
+<i>Organizarnos.</i>
+
+615
+00:58:34,899 --> 00:58:36,400
+¡Debemos organizarnos!
+
+616
+00:58:37,276 --> 00:58:39,152
+Yo sigo en la cadena de mando.
+
+617
+00:58:39,237 --> 00:58:42,864
+- 85 está al mando. ¡Por favor!
+- No me llames así.
+
+618
+00:58:42,949 --> 00:58:46,410
+Yo sé que no puedo sustituir a Andrews.
+
+619
+00:58:46,494 --> 00:58:48,120
+Era un buen hombre.
+
+620
+00:58:48,204 --> 00:58:53,083
+No necesitamos oír esas idioteces ahora.
+¿Qué tal Ud., hermana?
+
+621
+00:58:53,167 --> 00:58:55,919
+Ud. es una oficial.
+¿Qué tal si hace alarde de liderazgo?
+
+622
+00:58:56,003 --> 00:58:58,547
+Olvida a Shirley Temple,
+tú ponte al mando.
+
+623
+00:58:58,631 --> 00:58:59,714
+Exacto.
+
+624
+00:58:59,799 --> 00:59:02,175
+- De todos modos, tú mandas.
+- Olvídenlo.
+
+625
+00:59:03,177 --> 00:59:04,886
+Yo no tengo carácter de oficial.
+
+626
+00:59:07,473 --> 00:59:09,224
+Yo sólo cuido a mi gente.
+
+627
+00:59:09,308 --> 00:59:12,519
+¿Qué quiere esa condenada bestia?
+
+628
+00:59:14,730 --> 00:59:16,523
+¿Va a tratar de matarnos a todos?
+
+629
+00:59:19,986 --> 00:59:22,529
+- Sí.
+- Maravilloso, ¿no?
+
+630
+00:59:22,613 --> 00:59:24,448
+¿Cómo la vamos a detener?
+
+631
+00:59:28,953 --> 00:59:30,203
+No hay armas, ¿verdad?
+
+632
+00:59:30,288 --> 00:59:31,746
+Así es.
+
+633
+00:59:32,957 --> 00:59:35,542
+Jamás había visto
+una exactamente como esta.
+
+634
+00:59:36,335 --> 00:59:38,044
+Se mueve de una manera distinta.
+
+635
+00:59:40,173 --> 00:59:41,798
+Las otras le temían al fuego.
+
+636
+00:59:42,758 --> 00:59:44,092
+Y a nada más.
+
+637
+00:59:46,095 --> 00:59:47,262
+¿Podemos sellar el área?
+
+638
+00:59:47,346 --> 00:59:48,555
+Imposible.
+
+639
+00:59:49,765 --> 00:59:52,726
+La instalación
+tiene 600 conductos de aire.
+
+640
+00:59:52,810 --> 00:59:57,355
+¿Y el video? Hay monitores
+de circuito cerrado por todos lados.
+
+641
+00:59:57,440 --> 00:59:59,232
+El sistema de video
+lleva años descompuesto.
+
+642
+01:00:00,693 --> 01:00:01,860
+¡Nada funciona aquí!
+
+643
+01:00:01,944 --> 01:00:04,154
+Mucha tecnología parada.
+
+644
+01:00:04,238 --> 01:00:06,656
+- 85 quiere decir...
+- No me digas 85.
+
+645
+01:00:06,741 --> 01:00:08,158
+No hay televisión, ni estéreo...
+
+646
+01:00:08,242 --> 01:00:10,994
+ni aire acondicionado, ni video...
+
+647
+01:00:11,078 --> 01:00:13,872
+ni vigilancia, ni congeladores.
+
+648
+01:00:13,956 --> 01:00:18,668
+Ni hay maldito helado,
+ni condones, ni mujeres, ni pistolas.
+
+649
+01:00:18,753 --> 01:00:21,129
+Tenemos pura mierda.
+
+650
+01:00:21,214 --> 01:00:26,468
+¿Por qué estamos hablando con ella?
+Ella trajo al cabrón.
+
+651
+01:00:26,552 --> 01:00:28,678
+¡¿Por qué no le aplastamos la cabeza...
+
+652
+01:00:28,763 --> 01:00:30,138
+contra la maldita pared?!
+
+653
+01:00:31,474 --> 01:00:32,807
+Morse.
+
+654
+01:00:37,480 --> 01:00:39,606
+¡Cállate la jodida boca!
+
+655
+01:00:46,322 --> 01:00:47,322
+Exacto.
+
+656
+01:00:48,533 --> 01:00:49,533
+Exacto.
+
+657
+01:00:50,868 --> 01:00:52,285
+¿Qué vamos a hacer?
+
+658
+01:01:05,962 --> 01:01:07,462
+¿Qué es esto?
+
+659
+01:01:08,673 --> 01:01:11,007
+Conecta el comedor...
+
+660
+01:01:11,092 --> 01:01:13,969
+con la enfermería.
+Es un tubo de ventilación.
+
+661
+01:01:14,053 --> 01:01:16,096
+Nos vamos a meter ahí.
+
+662
+01:01:16,180 --> 01:01:17,389
+Vamos a hacer que salga.
+
+663
+01:01:17,473 --> 01:01:20,809
+Hay kilómetros de túneles allá abajo.
+
+664
+01:01:22,603 --> 01:01:24,312
+No va a irse lejos.
+
+665
+01:01:25,440 --> 01:01:27,774
+Va a hacer su nido en esta área.
+
+666
+01:01:27,859 --> 01:01:29,067
+Justo por...
+
+667
+01:01:30,820 --> 01:01:32,612
+aquí.
+
+668
+01:01:32,697 --> 01:01:33,822
+¿Cómo lo sabe?
+
+669
+01:01:35,658 --> 01:01:37,325
+Es como un león.
+
+670
+01:01:38,244 --> 01:01:40,454
+No se aleja mucho de las cebras.
+
+671
+01:01:40,538 --> 01:01:42,080
+¿Las cebras?
+
+672
+01:01:42,165 --> 01:01:46,376
+Exacto. Pero ¿andar por aquí,
+corriendo, en la oscuridad? ¿Bromea?
+
+673
+01:01:46,461 --> 01:01:48,295
+No hay luces en los conductos secundarios.
+
+674
+01:01:48,379 --> 01:01:51,423
+- ¿Tenemos linternas?
+- Miles, pero sin pilas.
+
+675
+01:01:51,507 --> 01:01:54,426
+- Ya le dije, nada funciona.
+- ¿Antorchas?
+
+676
+01:01:54,510 --> 01:01:57,471
+¿Tenemos la capacidad para hacer fuego?
+
+677
+01:01:57,555 --> 01:02:02,100
+Muchos han tenido ese privilegio
+desde la prehistoria.
+
+678
+01:02:02,185 --> 01:02:04,019
+No nos pongamos sarcásticos.
+
+679
+01:02:06,939 --> 01:02:08,565
+Nunca ha sido usada.
+
+680
+01:02:08,649 --> 01:02:13,111
+Iban a echar desperdicios nucleares.
+Nunca los echaron. Está limpia.
+
+681
+01:02:13,196 --> 01:02:15,447
+¿Esta es la única entrada y salida?
+
+682
+01:02:15,531 --> 01:02:16,865
+Exacto.
+
+683
+01:02:16,949 --> 01:02:19,284
+La pared es de acero, 2 m de ancho.
+
+684
+01:02:19,368 --> 01:02:23,663
+- Qué bien construían estas cámaras.
+- Entonces, si metemos algo aquí...
+
+685
+01:02:24,957 --> 01:02:27,375
+- ¿no tiene escapatoria?
+- Así es.
+
+686
+01:02:28,294 --> 01:02:30,670
+No tiene la menor escapatoria.
+
+687
+01:02:37,720 --> 01:02:41,473
+- Aquí. Se me olvida cómo se llama.
+- Quinitricetileno.
+
+688
+01:02:41,557 --> 01:02:42,557
+Ya lo sabía.
+
+689
+01:02:43,809 --> 01:02:45,644
+Voy a coordinar las secciones.
+
+690
+01:02:45,728 --> 01:02:48,396
+Organizar con Dillon lo de las brochas.
+
+691
+01:02:49,899 --> 01:02:51,650
+- Entonces...
+- David.
+
+692
+01:02:51,734 --> 01:02:53,527
+Organiza los barriles.
+
+693
+01:02:53,611 --> 01:02:55,070
+Está bien, 85.
+
+694
+01:02:56,405 --> 01:02:59,241
+No me llames así.
+
+695
+01:03:02,370 --> 01:03:05,080
+¿Qué es eso de "85"?
+
+696
+01:03:06,332 --> 01:03:10,919
+Un par de nosotros vimos
+su expediente de personal. Es su "I.Q.".
+
+697
+01:03:18,886 --> 01:03:23,348
+Una vez vi un barril de esto
+caer en una casamata, en la playa.
+
+698
+01:03:23,432 --> 01:03:26,685
+Un remolcador necesitó
+4 meses de reparaciones.
+
+699
+01:03:26,769 --> 01:03:27,561
+Es fenomenal.
+
+700
+01:03:33,441 --> 01:03:35,066
+Déjeme entender bien esto.
+
+701
+01:03:36,652 --> 01:03:40,071
+Quiere que prendamos fuego
+a todos los tubos...
+
+702
+01:03:40,156 --> 01:03:43,783
+y así forcemos a la bestia
+a entrar en esa cámara.
+
+703
+01:03:43,868 --> 01:03:44,868
+Exacto.
+
+704
+01:03:44,952 --> 01:03:47,078
+Y quiere ayuda...
+
+705
+01:03:47,163 --> 01:03:48,788
+de nosotros, los "Cromos-Y".
+
+706
+01:03:49,624 --> 01:03:50,749
+¿Tienen otro compromiso?
+
+707
+01:03:50,833 --> 01:03:53,835
+¿Por qué habríamos
+de arriesgar el pellejo?
+
+708
+01:03:53,920 --> 01:03:55,879
+Porque su pellejo ya peligra.
+
+709
+01:03:55,963 --> 01:03:58,256
+La única pregunta es:
+
+710
+01:03:58,341 --> 01:04:00,133
+¿Qué piensan hacer al respecto?
+
+711
+01:04:07,767 --> 01:04:10,018
+NO ZARANDEAR
+
+712
+01:04:14,065 --> 01:04:15,815
+Caray, esta cosa apesta.
+
+713
+01:04:18,361 --> 01:04:19,152
+BENGALAS
+
+714
+01:04:26,369 --> 01:04:28,370
+Extraña al doctor, ¿verdad?
+
+715
+01:04:30,957 --> 01:04:32,374
+¿Por qué lo dice?
+
+716
+01:04:33,584 --> 01:04:35,418
+Creía que eran íntimos.
+
+717
+01:04:38,381 --> 01:04:41,424
+Ha estado asomándose por las cerraduras.
+
+718
+01:04:41,509 --> 01:04:42,717
+Me imaginé bien.
+
+719
+01:04:49,725 --> 01:04:52,185
+Odio este lugar. Odio este lugar.
+
+720
+01:04:57,775 --> 01:05:00,360
+Definitivamente hay algo aquí.
+
+721
+01:05:03,531 --> 01:05:06,700
+No enciendas el fuego
+hasta que dé la señal. Esta es.
+
+722
+01:05:08,536 --> 01:05:10,203
+¿Entendiste? ¿Te vas a acordar?
+
+723
+01:05:14,542 --> 01:05:15,542
+Mierda.
+
+724
+01:06:16,437 --> 01:06:18,438
+¡Espera la señal!
+
+725
+01:06:26,655 --> 01:06:28,698
+¡Al piso!
+
+726
+01:06:32,578 --> 01:06:35,288
+¡Tenemos que encontrar los rociadores!
+
+727
+01:06:35,373 --> 01:06:37,040
+Les tenemos que ayudar.
+
+728
+01:06:45,299 --> 01:06:46,299
+¡Rápido!
+
+729
+01:06:49,011 --> 01:06:51,638
+¡Métanse a la cámara! ¡No abran la puerta!
+
+730
+01:07:52,950 --> 01:07:54,742
+¡Aquí, Dillon!
+
+731
+01:07:54,827 --> 01:07:55,869
+Aquí hay otro.
+
+732
+01:07:57,997 --> 01:07:59,414
+¡Dios mío!
+
+733
+01:07:59,498 --> 01:08:00,915
+Con él ya van 10.
+
+734
+01:08:04,879 --> 01:08:06,546
+¡Grandioso, carajo!
+
+735
+01:08:07,840 --> 01:08:09,799
+Pues, ¿qué haremos ahora?
+
+736
+01:08:13,596 --> 01:08:15,555
+- ¿Está bien?
+- ¡Al carajo con ella!
+
+737
+01:08:15,639 --> 01:08:17,515
+Anda suelto. ¿Qué hacemos?
+
+738
+01:08:17,600 --> 01:08:18,850
+Acabo de decir eso.
+
+739
+01:08:18,934 --> 01:08:21,561
+- ¡Cabrón de mierda!
+- Ya basta.
+
+740
+01:08:22,480 --> 01:08:24,063
+¡Dile a tu payaso que se comporte!
+
+741
+01:08:26,942 --> 01:08:28,234
+¿Qué le parece?
+
+742
+01:08:30,237 --> 01:08:31,488
+Necesito ir al VEE.
+
+743
+01:08:31,572 --> 01:08:33,323
+¿Por qué?
+
+744
+01:08:33,407 --> 01:08:35,700
+Necesito usar el neuroexplorador.
+
+745
+01:08:37,328 --> 01:08:38,328
+Se ve Ud. mal.
+
+746
+01:08:38,412 --> 01:08:40,330
+¿Qué importa? ¿Qué vamos a hacer?
+
+747
+01:08:40,414 --> 01:08:45,251
+¿Quieres que te saque los dientes?
+Cállate y deja de causar pánico.
+
+748
+01:08:45,336 --> 01:08:47,754
+¿Pánico? Eres tan estúpido
+que no sabes ni cómo se escribe.
+
+749
+01:08:47,838 --> 01:08:48,838
+No me hables de pánico.
+
+750
+01:08:48,923 --> 01:08:52,300
+- ¡Deberíamos sentir pánico, carajo!
+- ¡Cállense, los dos!
+
+751
+01:08:53,719 --> 01:08:54,928
+¡Cállense!
+
+752
+01:09:05,814 --> 01:09:07,273
+¡Ya me quedé sin ideas!
+
+753
+01:09:07,358 --> 01:09:08,942
+No me sorprende.
+
+754
+01:09:11,362 --> 01:09:13,655
+- ¿Qué tal afuera?
+- Genial idea.
+
+755
+01:09:13,739 --> 01:09:19,035
+Está a -40 grados, no va a haber sol
+en 2 días y el rescate no ha llegado.
+
+756
+01:09:19,119 --> 01:09:21,621
+Sí, mejor nos quedamos
+para servirle de almuerzo a la cosa esa.
+
+757
+01:09:22,790 --> 01:09:25,875
+Quiero que reúnas a todos
+los que quedaron vivos.
+
+758
+01:09:25,960 --> 01:09:27,126
+Tráelos al horno.
+
+759
+01:10:00,494 --> 01:10:01,953
+¿Necesita ayuda?
+
+760
+01:10:04,748 --> 01:10:06,040
+Disculpe si la asusté.
+
+761
+01:10:07,668 --> 01:10:11,462
+- No debe andar sola.
+- Hazme un favor.
+
+762
+01:10:11,547 --> 01:10:13,131
+Maneja el teclado.
+
+763
+01:10:27,187 --> 01:10:31,024
+- ¿Qué hago?
+- Aprieta la B o la C. ¿Qué es la C?
+
+764
+01:10:31,108 --> 01:10:32,942
+- ¿"Mostrar biofunciones"?
+- Esa es.
+
+765
+01:10:37,649 --> 01:10:39,066
+Ya empezó. ¿Y ahora?
+
+766
+01:10:39,818 --> 01:10:42,152
+Deja que corra el ciclo.
+
+767
+01:10:43,029 --> 01:10:44,321
+Está todo borroso.
+
+768
+01:10:44,406 --> 01:10:45,864
+Oprime "aclarar".
+
+769
+01:11:06,803 --> 01:11:07,845
+Sigue mirando.
+
+770
+01:11:15,145 --> 01:11:17,062
+No sé interpretar esto.
+
+771
+01:11:17,147 --> 01:11:18,439
+Una hemorragia es...
+
+772
+01:11:18,523 --> 01:11:20,357
+una mancha oscura.
+
+773
+01:11:27,240 --> 01:11:28,907
+Busca una...
+
+774
+01:11:28,992 --> 01:11:31,869
+fractura casi invisible
+en la base del cráneo.
+
+775
+01:11:33,204 --> 01:11:34,830
+Pequeñas marcas blancas.
+
+776
+01:11:34,914 --> 01:11:36,415
+TEJIDO EXTRAÑO
+
+777
+01:11:43,256 --> 01:11:44,256
+¿Qué?
+
+778
+01:11:46,468 --> 01:11:47,843
+Creo que tiene uno dentro.
+
+779
+01:11:51,348 --> 01:11:52,723
+No es posible.
+
+780
+01:11:56,853 --> 01:11:57,895
+¿Cómo se ve?
+
+781
+01:11:59,689 --> 01:12:02,399
+EXAMINANDO ADN
+TIPO DE TEJIDO DESCONOCIDO
+
+782
+01:12:03,151 --> 01:12:05,736
+- Horrible.
+- Lo tengo que ver.
+
+783
+01:12:09,282 --> 01:12:10,658
+- Detenlo.
+- Mejor no lo vea.
+
+784
+01:12:10,742 --> 01:12:11,825
+Detén la imagen.
+
+785
+01:12:14,909 --> 01:12:16,785
+UN MOMENTO
+
+786
+01:12:38,307 --> 01:12:39,390
+Lo siento.
+
+787
+01:12:47,848 --> 01:12:48,890
+Está funcionando.
+
+788
+01:12:50,017 --> 01:12:51,184
+¿Qué desea decir?
+
+789
+01:12:53,020 --> 01:12:54,854
+Diles que el planeta es tóxico.
+
+790
+01:12:55,898 --> 01:12:56,981
+¿Está bromeando?
+
+791
+01:12:57,733 --> 01:13:00,110
+Así no vendrá nunca el equipo de rescate.
+
+792
+01:13:00,194 --> 01:13:02,862
+- Ya lo sé.
+- ¿De qué está hablando?
+
+793
+01:13:02,947 --> 01:13:05,365
+Nuestra única esperanza
+es que ellos lo maten.
+
+794
+01:13:06,826 --> 01:13:10,870
+Quizá ellos puedan congelarla. Operarla.
+
+795
+01:13:10,955 --> 01:13:11,996
+Tienen la tecnología.
+
+796
+01:13:12,081 --> 01:13:16,376
+Si este organismo logra escapar
+del planeta, lo arrasará todo.
+
+797
+01:13:16,460 --> 01:13:18,795
+A la compañía le importa poco.
+
+798
+01:13:18,879 --> 01:13:21,840
+Lo quieren para su división de bioarmas.
+
+799
+01:13:21,924 --> 01:13:24,134
+No podemos dejar que vengan.
+
+800
+01:13:25,427 --> 01:13:26,761
+Váyase al carajo.
+
+801
+01:13:26,846 --> 01:13:31,850
+Lamento que Ud. lo lleve dentro,
+pero a mí me van a rescatar.
+
+802
+01:13:31,934 --> 01:13:35,103
+Al carajo con los reos. Tengo una familia.
+
+803
+01:13:35,187 --> 01:13:36,896
+Me voy a casa en la próxima rotación.
+
+804
+01:13:36,981 --> 01:13:39,524
+Sé que no es fácil,
+pero necesito transmitir...
+
+805
+01:13:39,608 --> 01:13:41,985
+mi mensaje y necesito el código.
+
+806
+01:13:42,069 --> 01:13:43,862
+Lo siento, señora.
+
+807
+01:13:43,946 --> 01:13:45,071
+Es secreto.
+
+808
+01:13:45,156 --> 01:13:48,700
+Escucha, pedazo de mierda, esto es vital.
+
+809
+01:13:48,784 --> 01:13:50,535
+No hay alternativas.
+
+810
+01:13:51,287 --> 01:13:53,621
+No se lo voy a dar. ¡De ninguna manera!
+
+811
+01:14:00,212 --> 01:14:02,380
+Mire. No es nada personal.
+
+812
+01:14:03,257 --> 01:14:05,967
+¿Entiende? Usted me cae bien.
+
+813
+01:14:12,433 --> 01:14:13,433
+Gracias.
+
+814
+01:14:22,478 --> 01:14:27,315
+- ¿Tiene alguna idea?
+- No sé. Quizá lo vaya a buscar.
+
+815
+01:14:27,400 --> 01:14:31,319
+- A ver qué tan listo es.
+- ¿Lo va a ir a buscar?
+
+816
+01:14:31,404 --> 01:14:36,616
+Sí. Tengo una buena idea de dónde está.
+
+817
+01:14:36,701 --> 01:14:38,118
+Está allá abajo.
+
+818
+01:14:39,704 --> 01:14:41,538
+En el sótano.
+
+819
+01:14:41,622 --> 01:14:43,623
+Toda la instalación es un sótano.
+
+820
+01:14:45,585 --> 01:14:46,960
+Lo digo metafóricamente.
+
+821
+01:14:49,088 --> 01:14:50,088
+¿Quieres venir?
+
+822
+01:14:53,759 --> 01:14:54,926
+Estoy jodido.
+
+823
+01:14:58,097 --> 01:15:02,100
+NEUROEXAMEN RECIBIDO
+UNIDAD MÉDICA LLEGARÁ EN DOS HORAS
+
+824
+01:15:15,781 --> 01:15:17,907
+ACELERANDO LLEGADA UNIDAD MÉDICA
+DOS HORAS
+
+825
+01:15:18,951 --> 01:15:19,951
+MÁXIMA PRIORIDAD ABSOLUTA
+
+826
+01:15:20,036 --> 01:15:21,369
+MANTENGAN A RIPLEY
+EN CUARENTENA
+
+827
+01:15:25,249 --> 01:15:27,709
+ESPERANDO ACUSE DE RECIBO
+
+828
+01:16:18,761 --> 01:16:20,637
+¿Dónde estás cuando te necesito?
+
+829
+01:16:54,086 --> 01:16:55,336
+No tengas miedo.
+
+830
+01:16:57,631 --> 01:16:59,299
+Soy parte de tu familia.
+
+831
+01:18:06,659 --> 01:18:08,535
+Llevas tanto tiempo en mi vida...
+
+832
+01:18:09,787 --> 01:18:11,704
+que ya no recuerdo nada más.
+
+833
+01:18:14,583 --> 01:18:16,417
+Ahora hazme un favor.
+
+834
+01:18:18,504 --> 01:18:19,629
+Es fácil.
+
+835
+01:18:20,631 --> 01:18:21,714
+Nada más...
+
+836
+01:18:23,425 --> 01:18:25,301
+haz lo que haces.
+
+837
+01:19:10,547 --> 01:19:12,089
+Se niega a matarme.
+
+838
+01:19:12,174 --> 01:19:14,467
+¿Qué hace aquí?
+Se supone que debe pasar inadvertida.
+
+839
+01:19:14,551 --> 01:19:16,510
+Llevo uno dentro.
+
+840
+01:19:18,847 --> 01:19:22,683
+- ¿Qué?
+- Lo vi en la tomografía axial computarizada.
+
+841
+01:19:24,102 --> 01:19:25,102
+Es una reina.
+
+842
+01:19:26,229 --> 01:19:27,855
+Una ponedora de huevos.
+
+843
+01:19:28,815 --> 01:19:30,774
+Puede hacer miles de bestias.
+
+844
+01:19:30,859 --> 01:19:33,611
+No me convence, suena a cuento.
+
+845
+01:19:35,864 --> 01:19:37,573
+¿Cómo se metió dentro de Ud.?
+
+846
+01:19:41,995 --> 01:19:44,371
+Cuando estaba en hipersueño, supongo.
+
+847
+01:19:45,790 --> 01:19:47,541
+No me queda mucho tiempo...
+
+848
+01:19:49,711 --> 01:19:52,129
+y no puedo hacer lo que debo.
+
+849
+01:19:54,591 --> 01:19:56,550
+Necesito que me ayude.
+
+850
+01:20:00,388 --> 01:20:02,056
+Necesito que me mate.
+
+851
+01:20:03,225 --> 01:20:04,767
+¡¿Qué?!
+
+852
+01:20:04,851 --> 01:20:07,228
+Voy a morir de todos modos.
+
+853
+01:20:07,312 --> 01:20:08,938
+No voy a sobrevivir cuando nazca.
+
+854
+01:20:10,732 --> 01:20:13,609
+Pero la que llevo dentro
+puede generar miles más.
+
+855
+01:20:15,278 --> 01:20:16,654
+Tiene que morir.
+
+856
+01:20:17,906 --> 01:20:20,032
+Así que alguien me tiene que matar.
+
+857
+01:20:23,328 --> 01:20:24,912
+¿Tiene las agallas?
+
+858
+01:20:26,248 --> 01:20:28,207
+No se preocupe por eso.
+
+859
+01:20:46,476 --> 01:20:47,810
+No quiero discursos.
+
+860
+01:20:51,773 --> 01:20:52,773
+No quiero rezos.
+
+861
+01:21:25,390 --> 01:21:28,183
+- ¿Qué pasó?
+- No me gusta perder.
+
+862
+01:21:29,185 --> 01:21:31,729
+- Contra nadie ni contra nada.
+- Carajo.
+
+863
+01:21:31,813 --> 01:21:36,609
+Esa cosa mató a la mitad de mis hombres
+y los demás están aterrados.
+
+864
+01:21:36,693 --> 01:21:39,695
+Mientras esté viva,
+Ud. no va a salvar el universo.
+
+865
+01:21:39,779 --> 01:21:41,905
+¡Dijo que me iba a matar!
+
+866
+01:21:41,990 --> 01:21:44,074
+- ¡Es un maldito cobarde!
+- ¡Quiero a esa cosa!
+
+867
+01:21:45,994 --> 01:21:49,455
+Quiero acabar con esa cosa
+y la necesito para hacerlo.
+
+868
+01:21:49,539 --> 01:21:52,833
+Quizá sea bueno para nosotros
+que la cosa no quiera matarla.
+
+869
+01:21:54,210 --> 01:21:56,211
+¡Si no, al carajo con Ud.!
+
+870
+01:22:03,762 --> 01:22:05,596
+La matamos...
+
+871
+01:22:07,349 --> 01:22:09,558
+- y Ud. se encarga de mí.
+- No hay problema.
+
+872
+01:22:10,894 --> 01:22:12,269
+Una muerte rápida...
+
+873
+01:22:12,354 --> 01:22:14,521
+fácil e indolora.
+
+874
+01:22:15,857 --> 01:22:19,777
+Van a morir aquí sentados
+o van a morir allá afuera.
+
+875
+01:22:19,861 --> 01:22:22,738
+Hay que hacer el intento. Se lo merece.
+
+876
+01:22:22,822 --> 01:22:24,740
+¿De qué estás hablando?
+
+877
+01:22:24,824 --> 01:22:28,994
+- De matar a la bestia.
+- No vamos a pelear con ella.
+
+878
+01:22:29,079 --> 01:22:30,746
+¡Por favor!
+
+879
+01:22:30,830 --> 01:22:33,415
+¡Deben de estar bien zafados!
+
+880
+01:22:33,500 --> 01:22:35,834
+- Yo tengo una familia.
+- A nadie le importas, 85.
+
+881
+01:22:35,919 --> 01:22:39,463
+No eres uno de nosotros,
+eres un títere de la compañía.
+
+882
+01:22:39,547 --> 01:22:44,051
+Está bien. Soy un títere de la compañía,
+no soy un criminal.
+
+883
+01:22:44,135 --> 01:22:46,637
+Me dices que soy tonto.
+
+884
+01:22:46,721 --> 01:22:48,931
+¡Tontos los condenados a cadena perpetua!
+
+885
+01:22:49,015 --> 01:22:50,057
+¡Vete al diablo!
+
+886
+01:22:51,726 --> 01:22:55,938
+Yo soy listo, voy a esperar a que
+lleguen tropas para pelear con eso.
+
+887
+01:22:56,022 --> 01:22:57,272
+Sí. Sí.
+
+888
+01:22:57,357 --> 01:23:00,067
+Muy bien, quédense aquí sentados.
+Perfecto.
+
+889
+01:23:00,151 --> 01:23:02,945
+¿Qué tal si yo me quedo aquí sentado?
+
+890
+01:23:03,029 --> 01:23:04,655
+No hay problema.
+
+891
+01:23:04,739 --> 01:23:06,657
+Ay, me olvidaba.
+
+892
+01:23:06,741 --> 01:23:10,494
+Tú eres el que hizo un pacto con Dios
+para vivir eternamente.
+
+893
+01:23:11,329 --> 01:23:13,706
+Y Uds., maricones...
+
+894
+01:23:13,790 --> 01:23:15,624
+también quédense aquí.
+
+895
+01:23:15,709 --> 01:23:17,626
+Ella y yo vamos a pelear por todos.
+
+896
+01:23:20,255 --> 01:23:22,047
+Yo también quiero matar a esa bestia.
+
+897
+01:23:22,132 --> 01:23:25,843
+La odio, mató a mis amigos.
+
+898
+01:23:26,386 --> 01:23:30,139
+¿Por qué no esperamos a la compañía?
+Con armas es más fácil.
+
+899
+01:23:30,223 --> 01:23:32,725
+¿Por qué tenemos que realizar
+un ataque suicida?
+
+900
+01:23:32,809 --> 01:23:34,977
+- Exacto.
+- Porque ellos no la matarán.
+
+901
+01:23:35,770 --> 01:23:38,605
+A ti sí, por haberla visto,
+pero a la bestia, no.
+
+902
+01:23:38,690 --> 01:23:40,441
+Qué locuras dice.
+
+903
+01:23:40,525 --> 01:23:42,985
+Son puras idioteces. No nos van a matar.
+
+904
+01:23:45,530 --> 01:23:47,448
+Cuando oyeron
+por primera vez de esta cosa...
+
+905
+01:23:48,450 --> 01:23:50,951
+dijeron: "Tripulación sacrificable".
+
+906
+01:23:51,828 --> 01:23:54,329
+La segunda vez
+enviaron infantes de marina.
+
+907
+01:23:54,414 --> 01:23:55,706
+"Prescindibles", también.
+
+908
+01:23:56,708 --> 01:24:00,753
+¿Por qué les van a importar
+unos prisioneros religiosos que están...
+
+909
+01:24:00,837 --> 01:24:02,546
+en el culo del espacio?
+
+910
+01:24:03,965 --> 01:24:08,385
+¿Creen que van a dejar que Uds.
+interfieran en sus planes?
+
+911
+01:24:09,637 --> 01:24:11,054
+Para ellos, somos...
+
+912
+01:24:11,139 --> 01:24:12,139
+basura.
+
+913
+01:24:12,223 --> 01:24:13,974
+No les importa...
+
+914
+01:24:14,058 --> 01:24:17,352
+ni un solo amigo suyo que haya muerto.
+
+915
+01:24:18,646 --> 01:24:19,646
+Ni uno solo.
+
+916
+01:24:24,277 --> 01:24:25,819
+¿Tienes un plan?
+
+917
+01:24:25,904 --> 01:24:27,446
+Aquí fundimos plomo, ¿no?
+
+918
+01:24:28,615 --> 01:24:32,201
+Tenemos que bajar
+a la maldita bestia al molde...
+
+919
+01:24:33,203 --> 01:24:34,995
+y ahogarla en plomo caliente.
+
+920
+01:24:35,830 --> 01:24:38,332
+Está bien. ¿Cómo?
+
+921
+01:24:38,416 --> 01:24:41,668
+¿Qué usaremos de carnada?
+
+922
+01:24:48,051 --> 01:24:49,510
+¡Carajo!
+
+923
+01:24:50,220 --> 01:24:51,845
+Todos vamos a morir.
+
+924
+01:24:53,556 --> 01:24:56,141
+La única pregunta es cómo.
+
+925
+01:24:58,311 --> 01:24:59,895
+¿Quieren irse de pie?
+
+926
+01:25:01,189 --> 01:25:03,982
+¿O se quieren ir de rodillas?
+
+927
+01:25:04,067 --> 01:25:05,067
+Suplicando.
+
+928
+01:25:05,151 --> 01:25:07,820
+A mí no me gusta suplicar.
+
+929
+01:25:07,904 --> 01:25:09,530
+Nadie me ha dado nada en mi vida.
+
+930
+01:25:10,657 --> 01:25:12,825
+Así que yo digo, a la mierda con esa cosa.
+
+931
+01:25:12,909 --> 01:25:13,951
+¡Vamos a pelear!
+
+932
+01:25:19,415 --> 01:25:20,791
+¡Al carajo!
+
+933
+01:25:20,875 --> 01:25:22,376
+¡Vamos a matarla!
+
+934
+01:25:26,047 --> 01:25:27,506
+¡Vamos a hacerla mierda!
+
+935
+01:25:39,727 --> 01:25:41,895
+¿Cuándo lo usaron por última vez?
+
+936
+01:25:41,980 --> 01:25:44,314
+Lo encendimos hace 5 o 6 años.
+
+937
+01:25:44,399 --> 01:25:46,233
+¿Seguro que el pistón va a servir?
+
+938
+01:25:46,317 --> 01:25:48,610
+Aquí no hay nada seguro.
+
+939
+01:25:53,408 --> 01:25:55,826
+La atrapamos, Ud. jala la palanca...
+
+940
+01:25:55,910 --> 01:26:00,789
+el pistón la empuja al molde
+y uno de los nuestros vacía el plomo.
+
+941
+01:26:00,874 --> 01:26:02,958
+Y colorín colorado,
+este cuento se ha acabado.
+
+942
+01:26:03,042 --> 01:26:04,418
+¿Si alguien se equivoca?
+
+943
+01:26:04,502 --> 01:26:07,296
+Estamos jodidos.
+Tiene una sola oportunidad y ya.
+
+944
+01:26:08,339 --> 01:26:10,507
+No va a haber tiempo para más.
+
+945
+01:26:11,426 --> 01:26:12,759
+Cuando jale la palanca...
+
+946
+01:26:13,803 --> 01:26:17,139
+va a estar atrapada aquí
+varios segundos con esa cosa.
+
+947
+01:26:17,807 --> 01:26:20,058
+Si Uds. no meten la pata, yo tampoco.
+
+948
+01:26:20,143 --> 01:26:23,020
+Más vale que la cosa esa
+no se la quiera comer.
+
+949
+01:26:23,104 --> 01:26:28,901
+Porque si quiere salir,
+va a pasar a través de usted.
+
+950
+01:26:28,985 --> 01:26:31,653
+- ¿Dónde va a estar Ud.?
+- Por aquí voy a andar.
+
+951
+01:26:31,738 --> 01:26:33,697
+¿Dónde están los demás?
+
+952
+01:26:34,449 --> 01:26:35,449
+Rezando.
+
+953
+01:26:37,911 --> 01:26:39,828
+- Hay algo que no me gusta.
+- ¿Qué?
+
+954
+01:26:39,913 --> 01:26:44,082
+Eso de que la bestia
+nos va a perseguir en la oscuridad.
+
+955
+01:26:44,167 --> 01:26:47,294
+Tú la vas a llevar
+por el canal B al pistón.
+
+956
+01:26:47,378 --> 01:26:49,129
+Yo cerraré las puertas tras de ti.
+
+957
+01:26:50,840 --> 01:26:52,549
+<i>Canal J...</i>
+
+958
+01:26:52,634 --> 01:26:53,842
+<i>puerta 8, abierta.</i>
+
+959
+01:26:53,927 --> 01:26:57,054
+¿Y si no coopera
+o nos perdemos?
+
+960
+01:27:02,143 --> 01:27:04,186
+Fue idea de ella.
+
+961
+01:27:14,989 --> 01:27:18,325
+<i>Canal B, puerta 7.</i>
+
+962
+01:27:19,535 --> 01:27:21,453
+No me convencen estas maniobras.
+
+963
+01:27:22,789 --> 01:27:23,997
+¡Oigan!
+
+964
+01:27:25,124 --> 01:27:27,042
+¡Mi puerta no está funcionando!
+
+965
+01:27:27,126 --> 01:27:28,418
+¿Qué dice?
+
+966
+01:27:28,503 --> 01:27:31,380
+¡Yo creo que hay que reconsiderar esto!
+
+967
+01:27:43,059 --> 01:27:44,851
+¿Oyeron algo?
+
+968
+01:27:56,531 --> 01:27:59,950
+¡Ven por mí, hija de puta!
+
+969
+01:28:01,411 --> 01:28:03,036
+¡La traigo atrás!
+
+970
+01:28:03,705 --> 01:28:04,955
+Ya empezó.
+
+971
+01:28:06,791 --> 01:28:07,791
+¡Detrás de mí!
+
+972
+01:28:09,168 --> 01:28:10,544
+Está en el canal B.
+
+973
+01:28:12,714 --> 01:28:14,047
+¡Cierren las puertas!
+
+974
+01:28:14,132 --> 01:28:16,299
+Debe de ir camino al canal A.
+
+975
+01:28:21,639 --> 01:28:24,266
+¡Esta cosa está bien encabronada!
+
+976
+01:28:24,350 --> 01:28:26,309
+- ¿Dijiste B?
+- No, E.
+
+977
+01:28:26,394 --> 01:28:29,062
+- Pero dijiste que me quedara aquí.
+- ¡Muévete!
+
+978
+01:28:30,398 --> 01:28:31,732
+¿Morse?
+
+979
+01:28:35,069 --> 01:28:36,069
+¡Kevin!
+
+980
+01:28:46,581 --> 01:28:51,001
+¡Oye, cara de pedo! ¡Ven por mí!
+
+981
+01:28:51,085 --> 01:28:54,379
+¡Atácame con todo!
+
+982
+01:29:01,929 --> 01:29:03,096
+¡A-7, cerrada!
+
+983
+01:29:07,977 --> 01:29:09,269
+Abran el ala este.
+
+984
+01:29:09,353 --> 01:29:12,606
+¡Puerta B-7 segura!
+
+985
+01:29:26,037 --> 01:29:28,580
+¿Estás bien? ¡Bueno, vámonos todos al E!
+
+986
+01:29:28,664 --> 01:29:30,791
+- ¿Dónde está el E?
+- ¡Por aquí!
+
+987
+01:29:49,550 --> 01:29:52,219
+Ven, minino, minino.
+
+988
+01:29:55,973 --> 01:29:57,974
+¡Dios mío!
+
+989
+01:29:59,977 --> 01:30:01,144
+¡Desgraciado!
+
+990
+01:30:02,688 --> 01:30:03,855
+¡Ahí viene!
+
+991
+01:30:04,649 --> 01:30:07,234
+¡Ya viene, Dillon! ¡Caray, ya viene!
+
+992
+01:30:07,318 --> 01:30:08,944
+¡Nos está persiguiendo!
+
+993
+01:30:10,321 --> 01:30:12,656
+¡Cierren las condenadas puertas!
+
+994
+01:30:14,909 --> 01:30:18,870
+¡Dillon! ¡Eh, oigan! ¡No es un ensayo!
+
+995
+01:30:19,497 --> 01:30:24,167
+¡Kevin! ¡Gregor!
+¿Dónde carajos están?
+
+996
+01:30:26,587 --> 01:30:28,839
+¡Estoy de nuevo en el A!
+
+997
+01:30:32,051 --> 01:30:33,009
+¡Cierra!
+
+998
+01:30:43,521 --> 01:30:46,439
+¡Puerta 3, canal F, cerrada!
+
+999
+01:30:47,817 --> 01:30:49,234
+Espero.
+
+1000
+01:30:51,696 --> 01:30:53,238
+¿Qué haces?
+
+1001
+01:30:53,322 --> 01:30:55,824
+No las agarres así. Agárralas así.
+
+1002
+01:30:55,908 --> 01:30:58,201
+¡Vas a matar a alguien, imbécil!
+
+1003
+01:31:11,591 --> 01:31:14,259
+Nada más tienen que correr
+por el corredor.
+
+1004
+01:31:15,428 --> 01:31:16,511
+Quédese aquí.
+
+1005
+01:31:20,641 --> 01:31:21,975
+¿Dónde demonios está?
+
+1006
+01:31:59,972 --> 01:32:04,100
+¡Ya viene! ¡Ay, cielos!
+
+1007
+01:32:12,151 --> 01:32:14,277
+¡No actives el pistón!
+
+1008
+01:32:15,696 --> 01:32:17,489
+¡La tenemos que atrapar!
+
+1009
+01:32:17,573 --> 01:32:19,574
+¿Qué haces? ¡Ya se fue!
+
+1010
+01:32:20,242 --> 01:32:22,452
+- Puedo... Puedo...
+- ¡No! ¡No lo hagas!
+
+1011
+01:32:23,955 --> 01:32:25,288
+Se fue.
+
+1012
+01:33:05,871 --> 01:33:07,998
+¿Qué diablos?
+
+1013
+01:33:11,544 --> 01:33:13,211
+¡No luches!
+
+1014
+01:33:13,295 --> 01:33:15,338
+¡No te muevas!
+
+1015
+01:33:17,800 --> 01:33:20,635
+¡Vámonos! ¡Vámonos!
+
+1016
+01:33:22,013 --> 01:33:25,181
+- Las puertas.
+- ¡Ahí viene!
+
+1017
+01:33:26,600 --> 01:33:28,560
+¡Agarra el pistón!
+
+1018
+01:33:30,855 --> 01:33:34,274
+Te tengo. Descuida. Te tengo.
+
+1019
+01:33:34,358 --> 01:33:35,942
+Todo saldrá bien. Descuida, Kevin.
+
+1020
+01:33:48,664 --> 01:33:49,622
+Déjelo.
+
+1021
+01:33:49,707 --> 01:33:52,000
+Déjelo. Está muerto.
+Hay que atraerlo.
+
+1022
+01:34:06,140 --> 01:34:08,308
+¡Carajo! ¿Cuánto tiempo?
+
+1023
+01:34:08,392 --> 01:34:11,936
+No sé, 4 o 5 minutos.
+Pero tenemos que meterla aquí...
+
+1024
+01:34:12,021 --> 01:34:15,565
+antes de que el pistón
+selle el cuarto. ¡A moverse!
+
+1025
+01:34:44,595 --> 01:34:45,678
+¡Auxilio!
+
+1026
+01:34:49,683 --> 01:34:55,355
+¡Ayúdame, Dillon! ¡Me va a alcanzar!
+
+1027
+01:34:57,316 --> 01:35:00,443
+¡No mires para atrás!
+¡Corre lo más rápido que puedas!
+
+1028
+01:35:02,113 --> 01:35:03,446
+¡Ayúdame!
+
+1029
+01:35:29,598 --> 01:35:32,725
+Dios mío, gracias a Dios que ya llegaron.
+
+1030
+01:35:34,854 --> 01:35:37,272
+Celador Aaron. 137512.
+
+1031
+01:35:37,356 --> 01:35:38,982
+No quedamos muchos.
+
+1032
+01:35:39,066 --> 01:35:42,861
+¿Dónde está la teniente Ripley?
+¿Todavía está viva?
+
+1033
+01:35:42,945 --> 01:35:45,029
+Si está viva, está en el horno.
+
+1034
+01:35:46,657 --> 01:35:48,825
+Está en la fundición con la bestia.
+
+1035
+01:35:48,909 --> 01:35:49,909
+No quisieron esperar.
+
+1036
+01:36:04,842 --> 01:36:06,926
+¡Dios mío!
+
+1037
+01:36:07,011 --> 01:36:09,012
+Cabrón. Casi me cago del susto.
+
+1038
+01:36:09,722 --> 01:36:12,223
+¡Yo creía que eras la cosa!
+
+1039
+01:36:12,308 --> 01:36:13,349
+¡Imbécil!
+
+1040
+01:36:20,858 --> 01:36:22,108
+¡Zoquete!
+
+1041
+01:36:42,630 --> 01:36:46,341
+¡Muévete! ¡Ven acá, desgraciado!
+
+1042
+01:36:52,514 --> 01:36:53,514
+¡Vamos!
+
+1043
+01:36:54,558 --> 01:36:55,600
+¡Sal de ahí!
+
+1044
+01:36:57,353 --> 01:36:58,895
+¡Ven acá!
+
+1045
+01:37:00,648 --> 01:37:02,774
+¡Se nos acaba el tiempo, Ripley!
+
+1046
+01:37:09,365 --> 01:37:10,573
+¿Dónde está?
+
+1047
+01:37:41,438 --> 01:37:42,397
+Vamos.
+
+1048
+01:37:42,481 --> 01:37:44,482
+- ¡Fuera!
+- ¿Qué está haciendo?
+
+1049
+01:37:44,566 --> 01:37:46,067
+¿Qué carajos le pasa?
+
+1050
+01:37:46,151 --> 01:37:47,944
+¡Suéltela!
+
+1051
+01:37:50,906 --> 01:37:52,865
+¡Está dando resultado! ¡Lléveme al pistón!
+
+1052
+01:37:54,827 --> 01:37:57,287
+- ¡Póngala enfrente del pistón!
+- ¡Está allá atrás!
+
+1053
+01:37:59,540 --> 01:38:02,750
+¡Ven acá, cabrona hija de puta!
+
+1054
+01:38:02,835 --> 01:38:04,460
+¡Ven acá!
+
+1055
+01:38:07,214 --> 01:38:08,339
+¡Ven acá, cabrona!
+
+1056
+01:38:11,343 --> 01:38:13,177
+¡La puerta!
+
+1057
+01:38:14,263 --> 01:38:16,264
+¡La puerta!
+
+1058
+01:38:16,348 --> 01:38:17,974
+- ¡Ahora!
+- ¡Ciérrala!
+
+1059
+01:38:18,058 --> 01:38:19,309
+¡Ciérrala!
+
+1060
+01:38:21,353 --> 01:38:23,146
+¡Cierra la puerta!
+
+1061
+01:38:24,106 --> 01:38:24,814
+¡Ahora!
+
+1062
+01:38:30,195 --> 01:38:31,487
+¡Voy a vaciar el plomo!
+
+1063
+01:39:09,109 --> 01:39:10,818
+- ¿Y usted?
+- ¡Yo aquí me quedo!
+
+1064
+01:39:10,903 --> 01:39:13,488
+¡Qué va! ¡Caerán 10 toneladas de plomo!
+
+1065
+01:39:13,572 --> 01:39:15,031
+¡Me quiero morir!
+
+1066
+01:39:15,115 --> 01:39:17,325
+Hicimos un trato, ¿recuerda?
+
+1067
+01:39:17,409 --> 01:39:20,536
+¡Se muere eso, luego Ud.!
+¡Sin usted, yo no me muevo!
+
+1068
+01:39:20,621 --> 01:39:22,038
+¡Váyase para arriba!
+
+1069
+01:39:39,223 --> 01:39:40,640
+¡La voy a detener aquí!
+
+1070
+01:39:40,724 --> 01:39:42,058
+¿Y yo, qué?
+
+1071
+01:39:42,142 --> 01:39:43,726
+Dios se encargará de Ud.
+
+1072
+01:39:45,771 --> 01:39:47,688
+¡Vacíe el plomo!
+
+1073
+01:39:54,988 --> 01:39:56,280
+¡Vete al carajo!
+
+1074
+01:39:59,284 --> 01:40:00,785
+¡Vacíelo, Ripley!
+
+1075
+01:40:00,869 --> 01:40:02,745
+¡Ande!
+
+1076
+01:40:04,873 --> 01:40:06,082
+¡Vacíe el plomo, Ripley!
+
+1077
+01:40:08,419 --> 01:40:10,545
+¿Tan débil eres?
+
+1078
+01:40:10,629 --> 01:40:11,963
+¡Pelea, cabrona!
+
+1079
+01:40:13,090 --> 01:40:16,092
+¡Morse, aquí!
+
+1080
+01:40:19,304 --> 01:40:20,930
+¡Vacía el plomo!
+
+1081
+01:40:24,643 --> 01:40:25,726
+¡Vacíalo!
+
+1082
+01:41:21,658 --> 01:41:23,159
+¡Odio los bichos!
+
+1083
+01:41:51,688 --> 01:41:54,941
+¡Está incandescente!
+¡Los rociadores!
+
+1084
+01:41:56,235 --> 01:41:58,361
+¡Empapa al cabrón!
+
+1085
+01:42:31,353 --> 01:42:32,895
+¡Te jodimos!
+
+1086
+01:43:40,795 --> 01:43:44,381
+- No se acerquen más.
+- Espere. La vinieron a ayudar.
+
+1087
+01:43:44,465 --> 01:43:45,965
+Quédense donde están.
+
+1088
+01:43:50,096 --> 01:43:52,430
+Bishop.
+
+1089
+01:43:52,515 --> 01:43:55,016
+- Vine a ayudarte.
+- Nada de cuentos.
+
+1090
+01:43:56,060 --> 01:43:57,686
+Acabo de sentir cómo se mueve.
+
+1091
+01:43:57,770 --> 01:43:59,312
+¿Sabes quién soy?
+
+1092
+01:43:59,397 --> 01:44:02,857
+Eres un androide. Mismo modelo que Bishop.
+
+1093
+01:44:02,942 --> 01:44:04,192
+Enviado por la compañía.
+
+1094
+01:44:05,903 --> 01:44:08,321
+Yo no soy el androide Bishop.
+
+1095
+01:44:08,406 --> 01:44:10,657
+Yo lo diseñé.
+
+1096
+01:44:10,741 --> 01:44:12,325
+Soy muy humano.
+
+1097
+01:44:13,494 --> 01:44:16,496
+Me enviaron porque soy una cara conocida.
+
+1098
+01:44:16,580 --> 01:44:18,915
+Porque eres muy importante para nosotros.
+
+1099
+01:44:20,167 --> 01:44:21,167
+Para mí.
+
+1100
+01:44:21,252 --> 01:44:22,627
+Quieren llevársela.
+
+1101
+01:44:22,712 --> 01:44:25,714
+- Matar a la cosa y llevarte a ti.
+- Mentira.
+
+1102
+01:44:25,798 --> 01:44:27,173
+Estás equivocada.
+
+1103
+01:44:27,925 --> 01:44:29,092
+Te queremos ayudar.
+
+1104
+01:44:29,844 --> 01:44:31,094
+¿Qué significa eso?
+
+1105
+01:44:32,221 --> 01:44:33,805
+Te la vamos a sacar.
+
+1106
+01:44:34,890 --> 01:44:36,391
+¿Y se la van a quedar?
+
+1107
+01:44:36,475 --> 01:44:40,395
+No podemos dejar que viva.
+Toda la civilización peligraría.
+
+1108
+01:44:43,357 --> 01:44:44,816
+¿No quieren llevársela?
+
+1109
+01:44:44,900 --> 01:44:46,693
+El tiempo es importante.
+
+1110
+01:44:47,820 --> 01:44:51,656
+Tenemos una sala de operaciones
+en la nave de rescate. Ven conmigo.
+
+1111
+01:44:54,118 --> 01:44:56,035
+Puedes tener una vida larga.
+
+1112
+01:44:58,080 --> 01:44:59,080
+Hijos.
+
+1113
+01:45:01,000 --> 01:45:01,958
+Y lo más importante...
+
+1114
+01:45:02,042 --> 01:45:03,877
+sabrás que está muerta.
+
+1115
+01:45:03,961 --> 01:45:05,211
+Déjame ayudarte.
+
+1116
+01:45:07,548 --> 01:45:09,507
+¿Qué garantía tengo...
+
+1117
+01:45:11,886 --> 01:45:13,428
+de que una vez que la saquen...
+
+1118
+01:45:15,097 --> 01:45:16,097
+la destruirán?
+
+1119
+01:45:17,558 --> 01:45:18,975
+Tienes que confiar en mí.
+
+1120
+01:45:24,273 --> 01:45:25,482
+Por favor...
+
+1121
+01:45:26,358 --> 01:45:27,358
+confía en mí.
+
+1122
+01:45:32,031 --> 01:45:33,031
+No.
+
+1123
+01:45:44,084 --> 01:45:45,752
+¿Qué vas a lograr?
+
+1124
+01:45:46,921 --> 01:45:49,839
+- ¡Alto!
+- ¡Rayos!
+
+1125
+01:45:55,679 --> 01:45:56,846
+Ayúdame.
+
+1126
+01:45:58,349 --> 01:45:59,682
+¿Qué quieres que haga?
+
+1127
+01:46:02,853 --> 01:46:06,272
+Fue un error.
+¡No tenía por qué haber sucedido!
+
+1128
+01:46:06,357 --> 01:46:07,649
+¡Maldito androide!
+
+1129
+01:46:26,794 --> 01:46:29,462
+Piensa en todo lo que podríamos aprender.
+
+1130
+01:46:30,297 --> 01:46:32,674
+¡Es la oportunidad de una vida!
+
+1131
+01:46:32,758 --> 01:46:34,425
+Deja que te la saque.
+
+1132
+01:46:35,177 --> 01:46:37,303
+Es un espécimen magnífico.
+
+1133
+01:46:58,826 --> 01:47:00,159
+¿Qué estás haciendo?
+
+1134
+01:48:22,284 --> 01:48:24,953
+- Vamos, muévete.
+- Vete a la mierda.
+
+1135
+01:48:31,835 --> 01:48:35,463
+<i>Ash y el capitán Dallas están muertos.</i>
+
+1136
+01:48:36,298 --> 01:48:38,257
+<i>La carga y la nave fueron destruidas.</i>
+
+1137
+01:48:40,260 --> 01:48:42,887
+<i>Llegaré a la frontera
+dentro de unas 6 semanas.</i>
+
+1138
+01:48:44,056 --> 01:48:46,557
+<i>Con un poco de suerte,
+la red me detectará.</i>
+
+1139
+01:48:47,810 --> 01:48:49,018
+<i>Habla Ripley...</i>
+
+1140
+01:48:49,812 --> 01:48:53,272
+<i>la última superviviente del Nostromo.
+Fin de la transmisión.</i>
+
+1141
+01:48:54,643 --> 01:48:57,603
+CÁRCEL DE TRABAJO FURIA 161
+CERRADA Y SELLADA
+
+1142
+01:48:57,688 --> 01:48:59,855
+PRESENCIA DE CUSTODIA TERMINADA
+
+1143
+01:48:59,940 --> 01:49:03,359
+EQUIPO DE REFINAMIENTO
+A SER VENDIDO COMO CHATARRA
+
+1144
+01:49:03,443 --> 01:49:06,779
+FIN DE TRANSMISIÓN
+
